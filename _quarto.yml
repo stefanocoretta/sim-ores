@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Open Research"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+format:
+  html:
+    theme:
+      - vapor
+    css: styles.css
+    toc: true
