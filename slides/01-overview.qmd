@@ -1,0 +1,12 @@
+---
+title: "01 - Overview"
+subtitle: "What is Open Research and why we need it"
+---
+
+## {background-image="../img/ux-indonesia-qC2n6RQU4Vw-unsplash.jpg"}
+
+[Photo by <a href="https://unsplash.com/@uxindo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">UX Indonesia</a> on <a href="https://unsplash.com/photos/person-writing-on-white-paper-qC2n6RQU4Vw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]{style="font-size: 8px;"}
+
+## {background-image="../img/alex-shute-bGOemOApXo4-unsplash.jpg"}
+
+[Photo by <a href="https://unsplash.com/@faithgiant?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alex Shute</a> on <a href="https://unsplash.com/photos/a-wooden-block-that-says-trust-surrounded-by-blue-flowers-bGOemOApXo4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]{style="font-size: 8px;"}
