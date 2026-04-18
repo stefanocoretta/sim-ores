@@ -1,19 +1,64 @@
 /*-- scss:defaults --*/
 
-// Look up all the SASS variables here: https://quarto.org/docs/presentations/revealjs/themes.html#sass-variables
+// lighten-color
+@function lighten-color($color, $strength: 0.7) {
+  @if $strength < 0 or $strength > 1 {
+    @error "Strength must be between 0 and 1";
+  }
+
+  $red: red($color);
+  $green: green($color);
+  $blue: blue($color);
+
+  $red: (1 - $strength) * $red + $strength * 255;
+  $green: (1 - $strength) * $green + $strength * 255;
+  $blue: (1 - $strength) * $blue + $strength * 255;
+
+  @return rgb($red, $green, $blue);
+}
+
+// darken-color
+@function darken-color($color, $strength: 0.8) {
+  @if $strength < 0 or $strength > 1 {
+    @error "Strength must be between 0 and 1";
+  }
+
+  $red: red($color);
+  $green: green($color);
+  $blue: blue($color);
+
+  $red: $red * (1 - $strength);
+  $green: $green * (1 - $strength);
+  $blue: $blue * (1 - $strength);
+
+  @return rgb($red, $green, $blue);
+}
 
 // Colours
-// $purple: #4E387E;
-// $purple-light: #B89BEB;
-// $purple-white: #FFEEFF;
-// $green: #66A82D;
-// $black: #0C090A;
+$base-color: #6944ba !default;
+$lighter-color: lighten-color($base-color) !default;
+$darker-color: darken-color($base-color) !default;
+$text-muted: rgba($base-color, 0.5) !default;
+$body-color: $darker-color !default;
+$presentation-heading-color: $base-color !default;
+$body-bg: $lighter-color !default;
+$link-color: $base-color !default;
+$dark-bg-text-color: $lighter-color !default;
 
 // Fonts
-$font-family-sans-serif: "Lato";
-$font-family-monospace: "Ubuntu Mono";
-$presentation-font-size-root: 30px;
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
 
-// Headings
-$presentation-heading-font: "Poetsen One";
-$presentation-h2-font-size: 2em;
+$font-family-sans-serif: 'Lato', sans-serif !default;
+// $presentation-heading-font: Cabin, sans-serif !default;
+$font-family-monospace: 'Source Code Pro', monospace !default;
+$presentation-font-size-root: 30px !default;
+
+// Title slide
+$presentation-title-slide-text-align: left;
+
+/*-- scss:rules --*/
+
+:root {
+  --inverse: #{$base-color};
+  --r-block-margin: 10px;
+}

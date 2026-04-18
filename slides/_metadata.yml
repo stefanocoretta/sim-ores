@@ -1,5 +1,5 @@
 format:
-  purple-light-revealjs:
+  revealjs:
     slide-number: true
     history: false
     theme: [default, custom.scss]
@@ -12,4 +12,3 @@ format:
         ```
 author: "Stefano Coretta"
 institute: "University of Edinburgh"
-googlefonts: ["Poetsen One", "Ubuntu Mono", "Lato"]
