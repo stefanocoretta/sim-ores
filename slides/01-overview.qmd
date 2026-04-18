@@ -4,7 +4,7 @@ subtitle: "What is Open Research and why we need it"
 bibliography: references.bib
 ---
 
-## 
+## Built-in control
 
 <br><br><br>
 
@@ -12,7 +12,7 @@ bibliography: references.bib
 "But scientific power is like inherited wealth: attained without discipline. You read what others have done, and you take the next step. You can do it very young. You can make progress very fast. There is no discipline lasting many decades. There is no mastery: old scientists are ignored. There is no humility before nature."
 :::
 
-## 
+## Ian Malcom, Jurassic Park
 
 ::: {layout-ncol="2"}
 ![](https://upload.wikimedia.org/wikipedia/en/6/60/Ian_Malcolm_%28Jeff_Goldblum%29.jpg){fig-align="center" width="300"}
