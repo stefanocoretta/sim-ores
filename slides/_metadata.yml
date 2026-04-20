@@ -12,3 +12,5 @@ format:
         ```
 author: "Stefano Coretta"
 institute: "University of Edinburgh"
+
+callout-icon: false

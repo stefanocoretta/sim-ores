@@ -4,6 +4,12 @@ subtitle: "What is Open Research and why we need it"
 bibliography: references.bib
 ---
 
+## 
+
+```{=html}
+<iframe allowfullscreen frameborder="0" height="80%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/FUZIGY/questions/69e5f1815dfd55c323cde953" width="100%"></iframe>
+```
+
 ## Built-in control
 
 <br><br><br>
@@ -51,5 +57,64 @@ bibliography: references.bib
 :::
 ::::
 ::::::
+
+## Research reliability
+
+![From [The Turing Way](https://book.the-turing-way.org/reproducible-research/overview/overview-definitions/).](/img/reproducible-matrix-d15700202901e2e2e85fd2dcc71a158b.jpg){fig-align="center"}
+
+## Research reliability
+
+![From The Turing Way.](/img/reproducible-matrix-d15700202901e2e2e85fd2dcc71a158b-2.jpg){fig-align="center"}
+
+## Research reliability
+
+::: callout-note
+## Research soundness
+
+- Research reliability implies that research is sound! [@yarkoni2022; @devezer2021].
+- Transparency is key.
+:::
+
+## Reproducibility
+
+```{=html}
+<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/FUZIGY/questions/69e60db0a236a202e88cd664" width="100%"></iframe>
+```
+
+## Reproducibility: shareability
+
+![From @miske2026](/img/miske2026-fig1.png){fig-align="center"}
+
+## Reproducibility
+
+![From @miske2026](/img/miske2026-fig5.png){fig-align="center"}
+
+## Reproducibility: qualitative research
+
+::: {.callout-note appearance="simple"}
+- @dubois2024: 96% surveyed qualitative researchers have never shared data in a repository.
+
+- @lamb2024: claiming that data collector is the only legitimate knowledge gatekeeper is at odds with epistemic plurality.
+
+- @heaton2008: shows successful reuse of qualitative data.
+  Data are not epistemically exhausted by first analysis.
+:::
+
+## Replicability
+
+![From @opensciencecollaboration2015](/img/opensciencecollaboration2015-fig1.png){fig-align="center"}
+
+## Rebustness
+
+::: {.callout-note appearance="simple"}
+- @brodeur2026: economy and political science; effect sizes that are similar (between 50% to 200% of the original effect size) under reanalysis represent 69% of the sample.
+
+- @auspurg2025: not invariance across all methods, but insensitivity within a justified class of models.
+:::
+
+## Generalisability
+
+::: {.callout-note appearance="simple"}
+:::
 
 ## References

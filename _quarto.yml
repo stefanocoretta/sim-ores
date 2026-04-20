@@ -15,3 +15,5 @@ format:
       - vapor
     css: styles.css
     toc: true
+
+callout-icon: false
