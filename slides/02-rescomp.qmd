@@ -1,0 +1,116 @@
+---
+title: "02 - Research Compendia"
+subtitle: "What they are and how to share them"
+bibliography: references.bib
+---
+
+## Research compendium
+
+> A **research compendium** accompanies, enhances, or is a scientific publication providing data, code, and documentation for reproducing a scientific workflow.
+
+—[Research compendium](https://research-compendium.science)
+
+. . .
+
+> A **research compendium** is a collection of all digital parts of a research project including data, code, texts (protocols, reports, questionnaires, meta data).
+> The collection is created in such a way that reproducing all results is straightforward.
+
+—[The Turing Way: Research compendia](https://the-turing-way.netlify.app/reproducible-research/compendia.html)
+
+## Research compendium
+
+::: callout-note
+## Research Compendium
+
+A **research compendium** is a repository containing all materials, code, notebooks, images, data, metadata, manuscripts, etc of a project.
+A compendium is structured in a way that makes the research process transparent and reproducible.
+:::
+
+. . .
+
+::: {.callout-tip appearance="simple"}
+- Ideally, use a **single main folder**.
+  - Compendia can belong to a super-project and have sub-project compendia/folders. A single paper can also be associated to a specific compendium.
+- Organise files and folders inside according to **type and context**: separate data, code, images.
+- Separate **raw and derived** data.
+- Use as much **automation** as possible.
+- **Document** everything (for example with `README`s).
+:::
+
+## Organise your files
+
+::: {.callout-tip appearance="simple"}
+- Create one folder and make that the folder for your dissertation project.
+
+- In that folder, create folders for `data/` and for `scripts/` (and `plots/`, `dissertation/`, etc).
+:::
+
+. . .
+
+::: {.callout-tip appearance="simple"}
+In `data/` have a `raw/` and `derived/` folder:
+
+- Raw data (data that, if lost, it is very unfortunate; for example, experiment data, data which was manually annotated, etc) should be saved in `data/raw/`.
+
+- Derived data (data that is derived with scripts) should be saved in `data/derived/`.
+:::
+
+## Backup, backup, BACKUP!
+
+**Make sure you have a backup system in place.**
+
+. . .
+
+::: {.callout-tip appearance="simple"}
+- Saving copies of the entire folder in an external hard drive.
+
+- Saving copies of the entire folder in an online storage service (iCloud Drive, One Drive, DropBox, Google Drive, ...).
+
+- Using a versioning system like [git](https://www.atlassian.com/git).
+:::
+
+## Research projects are dyanamic
+
+::: {.callout-note appearance="simple"}
+- Be prepared to change how files and folders are organised after you start.
+
+- Projects evolve over time and sometimes you need to clean things up.
+:::
+
+. . .
+
+::: {.callout-tip appearance="simple"}
+Use a **good** system to mark versions in your files. Two simple systems:
+
+- Use full DATE in the file name
+    - `dissertation-2022-11-21`.
+    - `dissertation-2023-03-01`.
+
+- Use version number
+    - Inspired by [Semantic versioning](https://www.geeksforgeeks.org/introduction-semantic-versioning/) from programming but can be helpful with research files too!
+    - `dissertation-v1.0`.
+    - `dissertation-v1.1`.
+    - `dissertation-v2.0`.
+:::
+
+## Research compendium: bad example
+
+![](/img/rescomp-bad.png){fig-align="center"}
+
+## Research compendium: good example
+
+![](/img/rescomp-good.png){fig-align="center"}
+
+## Data Management Protocol
+
+::: {.callout-note appearance="simple"}
+
+A Data Management Plan (DMP) covers data types and volume, capture, storage, integrity, confidentiality, retention and destruction, sharing and deposit.
+
+:::
+
+![](/img/dmp-example.png){fig-align="center"}
+
+## Sharing research compendia
+
+[![](/img/osf-project.png){fig-align="center"}](https://osf.io/w92me/overview)

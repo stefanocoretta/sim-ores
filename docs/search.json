@@ -117,5 +117,68 @@
     "title": "Open Research practices for the social and human disciplines",
     "section": "",
     "text": "This is the website of the Spring Into Methods workshop Open Research practices for the social and human disciplines."
+  },
+  {
+    "objectID": "slides/02-rescomp.html#research-compendium",
+    "href": "slides/02-rescomp.html#research-compendium",
+    "title": "02 - Research Compendia",
+    "section": "Research compendium",
+    "text": "Research compendium\n\nA research compendium accompanies, enhances, or is a scientific publication providing data, code, and documentation for reproducing a scientific workflow.\n\n—Research compendium\n\n\nA research compendium is a collection of all digital parts of a research project including data, code, texts (protocols, reports, questionnaires, meta data). The collection is created in such a way that reproducing all results is straightforward.\n\n—The Turing Way: Research compendia"
+  },
+  {
+    "objectID": "slides/02-rescomp.html#research-compendium-1",
+    "href": "slides/02-rescomp.html#research-compendium-1",
+    "title": "02 - Research Compendia",
+    "section": "Research compendium",
+    "text": "Research compendium\n\n\n\nResearch Compendium\n\n\nA research compendium is a repository containing all materials, code, notebooks, images, data, metadata, manuscripts, etc of a project. A compendium is structured in a way that makes the research process transparent and reproducible.\n\n\n\n\n\n\n\n\nIdeally, use a single main folder.\n\nCompendia can belong to a super-project and have sub-project compendia/folders. A single paper can also be associated to a specific compendium.\n\nOrganise files and folders inside according to type and context: separate data, code, images.\nSeparate raw and derived data.\nUse as much automation as possible.\nDocument everything (for example with READMEs)."
+  },
+  {
+    "objectID": "slides/02-rescomp.html#research-compendium-bad-example",
+    "href": "slides/02-rescomp.html#research-compendium-bad-example",
+    "title": "02 - Research Compendia",
+    "section": "Research compendium: bad example",
+    "text": "Research compendium: bad example"
+  },
+  {
+    "objectID": "slides/02-rescomp.html#research-compendium-good-example",
+    "href": "slides/02-rescomp.html#research-compendium-good-example",
+    "title": "02 - Research Compendia",
+    "section": "Research compendium: good example",
+    "text": "Research compendium: good example"
+  },
+  {
+    "objectID": "slides/02-rescomp.html#sharing-research-compendia",
+    "href": "slides/02-rescomp.html#sharing-research-compendia",
+    "title": "02 - Research Compendia",
+    "section": "Sharing research compendia",
+    "text": "Sharing research compendia"
+  },
+  {
+    "objectID": "slides/02-rescomp.html#organise-your-files",
+    "href": "slides/02-rescomp.html#organise-your-files",
+    "title": "02 - Research Compendia",
+    "section": "Organise your files",
+    "text": "Organise your files\n\n\n\n\nCreate one folder and make that the folder for your dissertation project.\nIn that folder, create folders for data/ and for scripts/ (and plots/, dissertation/, etc).\n\n\n\n\n\n\n\n\nIn data/ have a raw/ and derived/ folder:\n\nRaw data (data that, if lost, it is very unfortunate; for example, experiment data, data which was manually annotated, etc) should be saved in data/raw/.\nDerived data (data that is derived with scripts) should be saved in data/derived/."
+  },
+  {
+    "objectID": "slides/02-rescomp.html#backup-backup-backup",
+    "href": "slides/02-rescomp.html#backup-backup-backup",
+    "title": "02 - Research Compendia",
+    "section": "Backup, backup, BACKUP!",
+    "text": "Backup, backup, BACKUP!\nMake sure you have a backup system in place.\n\n\n\n\n\nSaving copies of the entire folder in an external hard drive.\nSaving copies of the entire folder in an online storage service (iCloud Drive, One Drive, DropBox, Google Drive, …).\nUsing a versioning system like git."
+  },
+  {
+    "objectID": "slides/02-rescomp.html#research-projects-are-dyanamic",
+    "href": "slides/02-rescomp.html#research-projects-are-dyanamic",
+    "title": "02 - Research Compendia",
+    "section": "Research projects are dyanamic",
+    "text": "Research projects are dyanamic\n\n\n\n\nBe prepared to change how files and folders are organised after you start.\nProjects evolve over time and sometimes you need to clean things up.\n\n\n\n\n\n\n\n\nUse a good system to mark versions in your files. Two simple systems:\n\nUse full DATE in the file name\n\ndissertation-2022-11-21.\ndissertation-2023-03-01.\n\nUse version number\n\nInspired by Semantic versioning from programming but can be helpful with research files too!\ndissertation-v1.0.\ndissertation-v1.1.\ndissertation-v2.0."
+  },
+  {
+    "objectID": "slides/02-rescomp.html#data-management-protocol",
+    "href": "slides/02-rescomp.html#data-management-protocol",
+    "title": "02 - Research Compendia",
+    "section": "Data Management Protocol",
+    "text": "Data Management Protocol\n\n\n\nA Data Management Plan (DMP) covers data types and volume, capture, storage, integrity, confidentiality, retention and destruction, sharing and deposit."
   }
 ]
