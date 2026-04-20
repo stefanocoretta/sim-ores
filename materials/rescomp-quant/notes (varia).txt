@@ -1,0 +1,23 @@
+The data was collected between October and December 2025. Initial recruitment started slightly earlier (late September), but those cases were excluded due to incomplete responses. Not sure if that is documented anywhere else.
+
+Meeting August 2025
+
+* We decided not to include the occupational variable after all, it made the questionnaire too long
+* There was debate about whether to collapse education into 2 or 3 categories; consensus was 3.
+* Someone suggested weighting by region but we postponed it
+
+Variable definitions
+
+* trust_science: Likert 1–5
+* policy_support: “support for proposed policy package”
+
+Data handling decisions
+
+* We removed incomplete cases for the “clean dataset”
+* No imputation was performed during analysis stage
+
+Plots
+
+* Two main figures: overall distribution and regional breakdown
+* There was also an earlier version of the aggregated plot with slightly different grouping
+* Colour scheme was changed after feedback from presentation January 2026
