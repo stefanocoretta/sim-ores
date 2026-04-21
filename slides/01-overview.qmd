@@ -115,6 +115,35 @@ bibliography: references.bib
 ## Generalisability
 
 ::: {.callout-note appearance="simple"}
+- @yarkoni2022: verbal, non-formalised accounts of phenomena make things difficult.
+
+  - Do something else (also see @scheel2020).
+
+  - Descriptive and qualitative research.
+
+- @devezer2019: replicable results do not imply correct conditional inference and non-replicable results do not imply incorrect conditional inference.
+:::
+
+## Open Research
+
+::: callout-note
+## What is it?
+
+Open Research is a movement that stresses the importance of a **more honest and transparent research** by promoting a series of research principles and by warning about common, although not necessarily intentional, questionable practices and misconceptions [@munafo2017; @cruwell2019].
+:::
+
+. . .
+
+::: callout-important
+## How to make your research open?
+
+- Curate and share **Research compendia**.
+
+- Use version control.
+
+- Write **Registered Reports**.
+
+- Reflect on your **researcher's orientation**.
 :::
 
 ## References

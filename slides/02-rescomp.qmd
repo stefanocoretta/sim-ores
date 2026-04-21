@@ -55,6 +55,18 @@ In `data/` have a `raw/` and `derived/` folder:
 - Derived data (data that is derived with scripts) should be saved in `data/derived/`.
 :::
 
+## Licensing
+
+::: callout-note
+## Pick a license
+
+- Creative Commons is a commonly chosen license: <https://creativecommons.org/chooser/>
+
+- Other licenses (for software): MIT License, GNU license.
+
+- Always include a `LICENSE` file in your compendium and be explicit which parts of the compendium fall under which license.
+:::
+
 ## Backup, backup, BACKUP!
 
 **Make sure you have a backup system in place.**
