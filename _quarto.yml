@@ -16,6 +16,8 @@ website:
             text: "01 - Overview"
           - href: "slides/02-rescomp.qmd"
             text: "02 - Research Compendia"
+          - href: "slides/03-versioning.qmd"
+            text: "03 - Version control"
       - text: Practice
         menu: 
           - href: "practice/02-rescomp.qmd"

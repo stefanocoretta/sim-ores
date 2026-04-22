@@ -1,0 +1,80 @@
+---
+title: "03 - Version control"
+subtitle: "Learn about version control for research using git"
+bibliography: references.bib
+---
+
+## Why should you learn version control? {background-color=var(--inverse) .center}
+
+## 
+
+![](../img/folder-1.png){fig-align="center"}
+
+## 
+
+![](../img/folder-2.png){fig-align="center"}
+
+## 
+
+![](../img/folder-3.png){fig-align="center"}
+
+## 
+
+![](../img/folder-4.png){fig-align="center"}
+
+## How does version control work? {background-color=var(--inverse) .center}
+
+## Version 1
+
+![](../img/project-v1.png){fig-align="center"}
+
+## Version 1 snapshot
+
+![](../img/project-v1-g.png){fig-align="center"}
+
+## Version 2
+
+![](../img/project-v2.png){fig-align="center"}
+
+## Version 2 snapshot
+
+![](../img/project-v2-g.png){fig-align="center"}
+
+## Version 3
+
+![](../img/project-v3.png){fig-align="center"}
+
+## Version 3 snapshot
+
+![](../img/project-v3-g.png){fig-align="center"}
+
+## The versioning system `git`
+
+
+::: {.callout-note appearance="simple"}
+git <https://git-scm.com>
+
+- `git` is a very popular choice for **software development**.
+
+- Tailored for tracking changes in software files.
+
+- But, also useful with anything that is text-based (like analysis scripts, papers, dissertations, ...).
+:::
+
+## What can `git` do for you?
+
+::: {.callout-note appearance="simple"}
+- Keep track of **new or deleted files** in a project.
+
+- Keep track of **changes to individual files** in a project.
+
+  - Done on a line-by-line basis.
+
+- Roll **back to a previous version** of the project or files.
+
+- Make **back-ups of** your files.
+:::
+
+## DEMO {background-color=var(--inverse) .center}
+
+## Practice {background-color=var(--inverse) .center}

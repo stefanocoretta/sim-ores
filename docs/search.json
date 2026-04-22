@@ -133,6 +133,90 @@
     "text": "This is the website of the Spring Into Methods workshop Open Research practices for the social and human disciplines."
   },
   {
+    "objectID": "slides/03-versioning.html#why-should-you-learn-version-control",
+    "href": "slides/03-versioning.html#why-should-you-learn-version-control",
+    "title": "03 - Version control",
+    "section": "Why should you learn version control?",
+    "text": "Why should you learn version control?"
+  },
+  {
+    "objectID": "slides/03-versioning.html#how-does-version-control-work",
+    "href": "slides/03-versioning.html#how-does-version-control-work",
+    "title": "03 - Version control",
+    "section": "How does version control work?",
+    "text": "How does version control work?"
+  },
+  {
+    "objectID": "slides/03-versioning.html#version-1",
+    "href": "slides/03-versioning.html#version-1",
+    "title": "03 - Version control",
+    "section": "Version 1",
+    "text": "Version 1"
+  },
+  {
+    "objectID": "slides/03-versioning.html#version-1-snapshot",
+    "href": "slides/03-versioning.html#version-1-snapshot",
+    "title": "03 - Version control",
+    "section": "Version 1 snapshot",
+    "text": "Version 1 snapshot"
+  },
+  {
+    "objectID": "slides/03-versioning.html#version-2",
+    "href": "slides/03-versioning.html#version-2",
+    "title": "03 - Version control",
+    "section": "Version 2",
+    "text": "Version 2"
+  },
+  {
+    "objectID": "slides/03-versioning.html#version-2-snapshot",
+    "href": "slides/03-versioning.html#version-2-snapshot",
+    "title": "03 - Version control",
+    "section": "Version 2 snapshot",
+    "text": "Version 2 snapshot"
+  },
+  {
+    "objectID": "slides/03-versioning.html#version-3",
+    "href": "slides/03-versioning.html#version-3",
+    "title": "03 - Version control",
+    "section": "Version 3",
+    "text": "Version 3"
+  },
+  {
+    "objectID": "slides/03-versioning.html#version-3-snapshot",
+    "href": "slides/03-versioning.html#version-3-snapshot",
+    "title": "03 - Version control",
+    "section": "Version 3 snapshot",
+    "text": "Version 3 snapshot"
+  },
+  {
+    "objectID": "slides/03-versioning.html#the-versioning-system-git",
+    "href": "slides/03-versioning.html#the-versioning-system-git",
+    "title": "03 - Version control",
+    "section": "The versioning system git",
+    "text": "The versioning system git\n\n\n\ngit https://git-scm.com\n\ngit is a very popular choice for software development.\nTailored for tracking changes in software files.\nBut, also useful with anything that is text-based (like analysis scripts, papers, dissertations, …)."
+  },
+  {
+    "objectID": "slides/03-versioning.html#what-can-git-do-for-you",
+    "href": "slides/03-versioning.html#what-can-git-do-for-you",
+    "title": "03 - Version control",
+    "section": "What can git do for you?",
+    "text": "What can git do for you?\n\n\n\n\nKeep track of new or deleted files in a project.\nKeep track of changes to individual files in a project.\n\nDone on a line-by-line basis.\n\nRoll back to a previous version of the project or files.\nMake back-ups of your files."
+  },
+  {
+    "objectID": "slides/03-versioning.html#demo",
+    "href": "slides/03-versioning.html#demo",
+    "title": "03 - Version control",
+    "section": "DEMO",
+    "text": "DEMO"
+  },
+  {
+    "objectID": "slides/03-versioning.html#practice",
+    "href": "slides/03-versioning.html#practice",
+    "title": "03 - Version control",
+    "section": "Practice",
+    "text": "Practice"
+  },
+  {
     "objectID": "slides/02-rescomp.html#research-compendium",
     "href": "slides/02-rescomp.html#research-compendium",
     "title": "02 - Research Compendia",
