@@ -1,0 +1,146 @@
+---
+title: "03 - Git (practice)"
+---
+
+This tutorial walks you through basic Git usage: creating a repository,
+adding and committing files, making changes, and working with branches.
+
+## 0. Prerequisites
+
+You were asked to install git for your operating system. You can verify your installation by running the following in the Terminal (macOS) or the Git Bash console (win).
+
+``` bash
+git --version
+```
+
+If you have to install git, follow the instructions from the website <https://git-scm.com>.
+
+## 1. Create a new repository
+
+The following are commands that you should type in the Terminal (macOS) or Git Bash console (win). Type one line at a time and hit ENTER on your keyboard to run the command.
+
+Here we crate a new folder (`mkdir`), navigate to it (`cd`) and initiate the folder as a git repository (`git init`).
+
+``` bash
+mkdir git-tutorial
+cd git-tutorial
+git init
+```
+
+## 2. Create a text file
+
+``` bash
+echo "Hello, Git!" > notes.txt
+```
+
+Open the file you just created. You should see it has the sentence "Hello, Git!"
+
+Check the status by running the following:
+
+``` bash
+git status
+```
+
+The message printed by `git status` tells you that there is a new file that is not yet tracked by git.
+
+## 3. Add and commit the file
+
+Add the changes to the "staging area" and commit the changes to the repository
+
+``` bash
+git add notes.txt
+git commit -m "Add notes"
+```
+
+Try `git status` again. It will tell you that there are no new changes.
+
+
+## 4. Modify the file
+
+Now, write a new line in the `notex.txt` file. You can write whatever you want.
+
+Now check changes:
+
+``` bash
+git status
+```
+
+You can view what changed with the following:
+
+``` bash
+git diff
+```
+
+## 5. Commit the changes
+
+``` bash
+git add notes.txt
+git commit -m "Update notes"
+```
+
+## 6. Add another file
+
+Now create a new text file called `README` and write something in it.
+
+Add and commit:
+
+``` bash
+git add README.txt
+git commit -m "Add file"
+```
+
+
+## 7. Create a new branch
+
+``` bash
+git branch draft
+```
+
+Switch to the new branch:
+
+``` bash
+git checkout draft
+```
+
+
+## 8. Add a file in the new branch
+
+Create a file called `LICENSE` and write "CC0" (this is the Creative Commons Public license).
+
+``` bash
+git add LICENSE.txt
+git commit -m "Add license"
+```
+
+
+## 9. Switch back to main branch
+
+``` bash
+git checkout main
+```
+
+You will see that the `LICENSE.txt` file is gone.
+
+## 10. Check branches
+
+The following code lists the existing branches.
+
+``` bash
+git branch
+```
+
+## 11. View commit history
+
+``` bash
+git log --oneline
+```
+
+## Summary
+
+You have:
+
+- Created a repository
+- Added and committed files
+- Modified and recommitted changes
+- Created and switched branches
+- Worked independently on a branch

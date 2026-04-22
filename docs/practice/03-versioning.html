@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Open Research practices for the social and human disciplines – Open Research</title>
+<title>03 - Git (practice) – Open Research</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -23,26 +23,61 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-daa8fa81d25beabfc7405797cb8d7aea.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-daa8fa81d25beabfc7405797cb8d7aea.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,7 +107,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -82,7 +117,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Open Research</span>
     </a>
   </div>
@@ -93,7 +128,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -102,15 +137,15 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-slides">    
         <li>
-    <a class="dropdown-item" href="./slides/01-overview.html">
+    <a class="dropdown-item" href="../slides/01-overview.html">
  <span class="dropdown-text">01 - Overview</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./slides/02-rescomp.html">
+    <a class="dropdown-item" href="../slides/02-rescomp.html">
  <span class="dropdown-text">02 - Research Compendia</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./slides/03-versioning.html">
+    <a class="dropdown-item" href="../slides/03-versioning.html">
  <span class="dropdown-text">03 - Version control</span></a>
   </li>  
     </ul>
@@ -121,11 +156,11 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-practice">    
         <li>
-    <a class="dropdown-item" href="./practice/02-rescomp.html">
+    <a class="dropdown-item" href="../practice/02-rescomp.html">
  <span class="dropdown-text">02 - Research Compendia</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./practice/03-versioning.html">
+    <a class="dropdown-item" href="../practice/03-versioning.html">
  <span class="dropdown-text">03 - Version control</span></a>
   </li>  
     </ul>
@@ -141,15 +176,33 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#prerequisites" id="toc-prerequisites" class="nav-link active" data-scroll-target="#prerequisites">0. Prerequisites</a></li>
+  <li><a href="#create-a-new-repository" id="toc-create-a-new-repository" class="nav-link" data-scroll-target="#create-a-new-repository">1. Create a new repository</a></li>
+  <li><a href="#create-a-text-file" id="toc-create-a-text-file" class="nav-link" data-scroll-target="#create-a-text-file">2. Create a text file</a></li>
+  <li><a href="#add-and-commit-the-file" id="toc-add-and-commit-the-file" class="nav-link" data-scroll-target="#add-and-commit-the-file">3. Add and commit the file</a></li>
+  <li><a href="#modify-the-file" id="toc-modify-the-file" class="nav-link" data-scroll-target="#modify-the-file">4. Modify the file</a></li>
+  <li><a href="#commit-the-changes" id="toc-commit-the-changes" class="nav-link" data-scroll-target="#commit-the-changes">5. Commit the changes</a></li>
+  <li><a href="#add-another-file" id="toc-add-another-file" class="nav-link" data-scroll-target="#add-another-file">6. Add another file</a></li>
+  <li><a href="#create-a-new-branch" id="toc-create-a-new-branch" class="nav-link" data-scroll-target="#create-a-new-branch">7. Create a new branch</a></li>
+  <li><a href="#add-a-file-in-the-new-branch" id="toc-add-a-file-in-the-new-branch" class="nav-link" data-scroll-target="#add-a-file-in-the-new-branch">8. Add a file in the new branch</a></li>
+  <li><a href="#switch-back-to-main-branch" id="toc-switch-back-to-main-branch" class="nav-link" data-scroll-target="#switch-back-to-main-branch">9. Switch back to main branch</a></li>
+  <li><a href="#check-branches" id="toc-check-branches" class="nav-link" data-scroll-target="#check-branches">10. Check branches</a></li>
+  <li><a href="#view-commit-history" id="toc-view-commit-history" class="nav-link" data-scroll-target="#view-commit-history">11. View commit history</a></li>
+  <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary">Summary</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Open Research practices for the social and human disciplines</h1>
+<h1 class="title">03 - Git (practice)</h1>
 </div>
 
 
@@ -166,9 +219,95 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>This is the website of the <a href="https://www.sgsss.ac.uk/training/spring-into-methods/">Spring Into Methods</a> workshop <em>Open Research practices for the social and human disciplines</em>.</p>
+<p>This tutorial walks you through basic Git usage: creating a repository, adding and committing files, making changes, and working with branches.</p>
+<section id="prerequisites" class="level2">
+<h2 class="anchored" data-anchor-id="prerequisites">0. Prerequisites</h2>
+<p>You were asked to install git for your operating system. You can verify your installation by running the following in the Terminal (macOS) or the Git Bash console (win).</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> <span class="at">--version</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>If you have to install git, follow the instructions from the website <a href="https://git-scm.com" class="uri">https://git-scm.com</a>.</p>
+</section>
+<section id="create-a-new-repository" class="level2">
+<h2 class="anchored" data-anchor-id="create-a-new-repository">1. Create a new repository</h2>
+<p>The following are commands that you should type in the Terminal (macOS) or Git Bash console (win). Type one line at a time and hit ENTER on your keyboard to run the command.</p>
+<p>Here we crate a new folder (<code>mkdir</code>), navigate to it (<code>cd</code>) and initiate the folder as a git repository (<code>git init</code>).</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">mkdir</span> git-tutorial</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="bu">cd</span> git-tutorial</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> init</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</section>
+<section id="create-a-text-file" class="level2">
+<h2 class="anchored" data-anchor-id="create-a-text-file">2. Create a text file</h2>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="bu">echo</span> <span class="st">"Hello, Git!"</span> <span class="op">&gt;</span> notes.txt</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>Open the file you just created. You should see it has the sentence “Hello, Git!”</p>
+<p>Check the status by running the following:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> status</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>The message printed by <code>git status</code> tells you that there is a new file that is not yet tracked by git.</p>
+</section>
+<section id="add-and-commit-the-file" class="level2">
+<h2 class="anchored" data-anchor-id="add-and-commit-the-file">3. Add and commit the file</h2>
+<p>Add the changes to the “staging area” and commit the changes to the repository</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb5"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> add notes.txt</span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> commit <span class="at">-m</span> <span class="st">"Add notes"</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>Try <code>git status</code> again. It will tell you that there are no new changes.</p>
+</section>
+<section id="modify-the-file" class="level2">
+<h2 class="anchored" data-anchor-id="modify-the-file">4. Modify the file</h2>
+<p>Now, write a new line in the <code>notex.txt</code> file. You can write whatever you want.</p>
+<p>Now check changes:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb6"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> status</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>You can view what changed with the following:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb7"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> diff</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</section>
+<section id="commit-the-changes" class="level2">
+<h2 class="anchored" data-anchor-id="commit-the-changes">5. Commit the changes</h2>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb8"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> add notes.txt</span>
+<span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> commit <span class="at">-m</span> <span class="st">"Update notes"</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</section>
+<section id="add-another-file" class="level2">
+<h2 class="anchored" data-anchor-id="add-another-file">6. Add another file</h2>
+<p>Now create a new text file called <code>README</code> and write something in it.</p>
+<p>Add and commit:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb9"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> add README.txt</span>
+<span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> commit <span class="at">-m</span> <span class="st">"Add file"</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</section>
+<section id="create-a-new-branch" class="level2">
+<h2 class="anchored" data-anchor-id="create-a-new-branch">7. Create a new branch</h2>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb10"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> branch draft</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>Switch to the new branch:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb11"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> checkout draft</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</section>
+<section id="add-a-file-in-the-new-branch" class="level2">
+<h2 class="anchored" data-anchor-id="add-a-file-in-the-new-branch">8. Add a file in the new branch</h2>
+<p>Create a file called <code>LICENSE</code> and write “CC0” (this is the Creative Commons Public license).</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb12"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> add LICENSE.txt</span>
+<span id="cb12-2"><a href="#cb12-2" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> commit <span class="at">-m</span> <span class="st">"Add license"</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</section>
+<section id="switch-back-to-main-branch" class="level2">
+<h2 class="anchored" data-anchor-id="switch-back-to-main-branch">9. Switch back to main branch</h2>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb13"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> checkout main</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>You will see that the <code>LICENSE.txt</code> file is gone.</p>
+</section>
+<section id="check-branches" class="level2">
+<h2 class="anchored" data-anchor-id="check-branches">10. Check branches</h2>
+<p>The following code lists the existing branches.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb14"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> branch</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</section>
+<section id="view-commit-history" class="level2">
+<h2 class="anchored" data-anchor-id="view-commit-history">11. View commit history</h2>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb15"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb15-1"><a href="#cb15-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> log <span class="at">--oneline</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</section>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>You have:</p>
+<ul>
+<li>Created a repository</li>
+<li>Added and committed files</li>
+<li>Modified and recommitted changes</li>
+<li>Created and switched branches</li>
+<li>Worked independently on a branch</li>
+</ul>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

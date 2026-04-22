@@ -75,6 +75,4 @@ git <https://git-scm.com>
 - Make **back-ups of** your files.
 :::
 
-## DEMO {background-color=var(--inverse) .center}
-
 ## Practice {background-color=var(--inverse) .center}

@@ -7,6 +7,167 @@
     "text": "For this exercise you are asked to look through a set of files that belong to a fictitious study. We recommend you to form pairs/groups of three and work through this together or even just share thoughts while you work on the exercise independently.\nYou have two options, either a qualitative study or a quantitative study (but feel free to play with both!). After familiarising yourself with the files (if you have questions, ask us!), you should rename and organise the files in a research compendium and upload it to the Open Science Framework.\n\n\n\n\n\n\n\nFirst, create an Open Science Framework (OSF) account if you don’t have one already: https://osf.io/register.\nDownload zip archives with the studies here: qual, quant.\nFamiliarise yourself with the files and ask us if you have questions.\nRename and organise the files in folder to create a research compendium.\nAdd a README file explaining the structure of the compendium.\nAdd a LICENSE file.\nWrite a log file where you explain the changes and how you have reorganised the files. You can call this file CHANGELOG or NEWS or anything else that makes sense in your field.\nWhen you are happy, create an OSF project and upload your research compendium"
   },
   {
+    "objectID": "slides/02-rescomp.html#research-compendium",
+    "href": "slides/02-rescomp.html#research-compendium",
+    "title": "02 - Research Compendia",
+    "section": "Research compendium",
+    "text": "Research compendium\n\nA research compendium accompanies, enhances, or is a scientific publication providing data, code, and documentation for reproducing a scientific workflow.\n\n—Research compendium\n\n\nA research compendium is a collection of all digital parts of a research project including data, code, texts (protocols, reports, questionnaires, meta data). The collection is created in such a way that reproducing all results is straightforward.\n\n—The Turing Way: Research compendia"
+  },
+  {
+    "objectID": "slides/02-rescomp.html#research-compendium-1",
+    "href": "slides/02-rescomp.html#research-compendium-1",
+    "title": "02 - Research Compendia",
+    "section": "Research compendium",
+    "text": "Research compendium\n\n\n\nResearch Compendium\n\n\nA research compendium is a repository containing all materials, code, notebooks, images, data, metadata, manuscripts, etc of a project. A compendium is structured in a way that makes the research process transparent and reproducible.\n\n\n\n\n\n\n\n\nIdeally, use a single main folder.\n\nCompendia can belong to a super-project and have sub-project compendia/folders. A single paper can also be associated to a specific compendium.\n\nOrganise files and folders inside according to type and context: separate data, code, images.\nSeparate raw and derived data.\nUse as much automation as possible.\nDocument everything (for example with READMEs)."
+  },
+  {
+    "objectID": "slides/02-rescomp.html#organise-your-files",
+    "href": "slides/02-rescomp.html#organise-your-files",
+    "title": "02 - Research Compendia",
+    "section": "Organise your files",
+    "text": "Organise your files\n\n\n\n\nCreate one folder and make that the folder for your dissertation project.\nIn that folder, create folders for data/ and for scripts/ (and plots/, dissertation/, etc).\n\n\n\n\n\n\n\n\nIn data/ have a raw/ and derived/ folder:\n\nRaw data (data that, if lost, it is very unfortunate; for example, experiment data, data which was manually annotated, etc) should be saved in data/raw/.\nDerived data (data that is derived with scripts) should be saved in data/derived/."
+  },
+  {
+    "objectID": "slides/02-rescomp.html#licensing",
+    "href": "slides/02-rescomp.html#licensing",
+    "title": "02 - Research Compendia",
+    "section": "Licensing",
+    "text": "Licensing\n\n\n\nPick a license\n\n\n\nCreative Commons is a commonly chosen license: https://creativecommons.org/chooser/\nOther licenses (for software): MIT License, GNU license.\nAlways include a LICENSE file in your compendium and be explicit which parts of the compendium fall under which license."
+  },
+  {
+    "objectID": "slides/02-rescomp.html#backup-backup-backup",
+    "href": "slides/02-rescomp.html#backup-backup-backup",
+    "title": "02 - Research Compendia",
+    "section": "Backup, backup, BACKUP!",
+    "text": "Backup, backup, BACKUP!\nMake sure you have a backup system in place.\n\n\n\n\n\nSaving copies of the entire folder in an external hard drive.\nSaving copies of the entire folder in an online storage service (iCloud Drive, One Drive, DropBox, Google Drive, …).\nUsing a versioning system like git."
+  },
+  {
+    "objectID": "slides/02-rescomp.html#research-projects-are-dyanamic",
+    "href": "slides/02-rescomp.html#research-projects-are-dyanamic",
+    "title": "02 - Research Compendia",
+    "section": "Research projects are dyanamic",
+    "text": "Research projects are dyanamic\n\n\n\n\nBe prepared to change how files and folders are organised after you start.\nProjects evolve over time and sometimes you need to clean things up.\n\n\n\n\n\n\n\n\nUse a good system to mark versions in your files. Two simple systems:\n\nUse full DATE in the file name\n\ndissertation-2022-11-21.\ndissertation-2023-03-01.\n\nUse version number\n\nInspired by Semantic versioning from programming but can be helpful with research files too!\ndissertation-v1.0.\ndissertation-v1.1.\ndissertation-v2.0."
+  },
+  {
+    "objectID": "slides/02-rescomp.html#research-compendium-bad-example",
+    "href": "slides/02-rescomp.html#research-compendium-bad-example",
+    "title": "02 - Research Compendia",
+    "section": "Research compendium: bad example",
+    "text": "Research compendium: bad example"
+  },
+  {
+    "objectID": "slides/02-rescomp.html#research-compendium-good-example",
+    "href": "slides/02-rescomp.html#research-compendium-good-example",
+    "title": "02 - Research Compendia",
+    "section": "Research compendium: good example",
+    "text": "Research compendium: good example"
+  },
+  {
+    "objectID": "slides/02-rescomp.html#data-management-protocol",
+    "href": "slides/02-rescomp.html#data-management-protocol",
+    "title": "02 - Research Compendia",
+    "section": "Data Management Protocol",
+    "text": "Data Management Protocol\n\n\n\nA Data Management Plan (DMP) covers data types and volume, capture, storage, integrity, confidentiality, retention and destruction, sharing and deposit."
+  },
+  {
+    "objectID": "slides/02-rescomp.html#sharing-research-compendia",
+    "href": "slides/02-rescomp.html#sharing-research-compendia",
+    "title": "02 - Research Compendia",
+    "section": "Sharing research compendia",
+    "text": "Sharing research compendia"
+  },
+  {
+    "objectID": "slides/02-rescomp.html#practice",
+    "href": "slides/02-rescomp.html#practice",
+    "title": "02 - Research Compendia",
+    "section": "Practice",
+    "text": "Practice"
+  },
+  {
+    "objectID": "slides/03-versioning.html#why-should-you-learn-version-control",
+    "href": "slides/03-versioning.html#why-should-you-learn-version-control",
+    "title": "03 - Version control",
+    "section": "Why should you learn version control?",
+    "text": "Why should you learn version control?"
+  },
+  {
+    "objectID": "slides/03-versioning.html#how-does-version-control-work",
+    "href": "slides/03-versioning.html#how-does-version-control-work",
+    "title": "03 - Version control",
+    "section": "How does version control work?",
+    "text": "How does version control work?"
+  },
+  {
+    "objectID": "slides/03-versioning.html#version-1",
+    "href": "slides/03-versioning.html#version-1",
+    "title": "03 - Version control",
+    "section": "Version 1",
+    "text": "Version 1"
+  },
+  {
+    "objectID": "slides/03-versioning.html#version-1-snapshot",
+    "href": "slides/03-versioning.html#version-1-snapshot",
+    "title": "03 - Version control",
+    "section": "Version 1 snapshot",
+    "text": "Version 1 snapshot"
+  },
+  {
+    "objectID": "slides/03-versioning.html#version-2",
+    "href": "slides/03-versioning.html#version-2",
+    "title": "03 - Version control",
+    "section": "Version 2",
+    "text": "Version 2"
+  },
+  {
+    "objectID": "slides/03-versioning.html#version-2-snapshot",
+    "href": "slides/03-versioning.html#version-2-snapshot",
+    "title": "03 - Version control",
+    "section": "Version 2 snapshot",
+    "text": "Version 2 snapshot"
+  },
+  {
+    "objectID": "slides/03-versioning.html#version-3",
+    "href": "slides/03-versioning.html#version-3",
+    "title": "03 - Version control",
+    "section": "Version 3",
+    "text": "Version 3"
+  },
+  {
+    "objectID": "slides/03-versioning.html#version-3-snapshot",
+    "href": "slides/03-versioning.html#version-3-snapshot",
+    "title": "03 - Version control",
+    "section": "Version 3 snapshot",
+    "text": "Version 3 snapshot"
+  },
+  {
+    "objectID": "slides/03-versioning.html#the-versioning-system-git",
+    "href": "slides/03-versioning.html#the-versioning-system-git",
+    "title": "03 - Version control",
+    "section": "The versioning system git",
+    "text": "The versioning system git\n\n\n\ngit https://git-scm.com\n\ngit is a very popular choice for software development.\nTailored for tracking changes in software files.\nBut, also useful with anything that is text-based (like analysis scripts, papers, dissertations, …)."
+  },
+  {
+    "objectID": "slides/03-versioning.html#what-can-git-do-for-you",
+    "href": "slides/03-versioning.html#what-can-git-do-for-you",
+    "title": "03 - Version control",
+    "section": "What can git do for you?",
+    "text": "What can git do for you?\n\n\n\n\nKeep track of new or deleted files in a project.\nKeep track of changes to individual files in a project.\n\nDone on a line-by-line basis.\n\nRoll back to a previous version of the project or files.\nMake back-ups of your files."
+  },
+  {
+    "objectID": "slides/03-versioning.html#practice",
+    "href": "slides/03-versioning.html#practice",
+    "title": "03 - Version control",
+    "section": "Practice",
+    "text": "Practice"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Open Research practices for the social and human disciplines",
+    "section": "",
+    "text": "This is the website of the Spring Into Methods workshop Open Research practices for the social and human disciplines."
+  },
+  {
     "objectID": "slides/01-overview.html#built-in-control",
     "href": "slides/01-overview.html#built-in-control",
     "title": "01 - Overview",
@@ -126,171 +287,101 @@
     "text": "References\n\n\n\n\nAuspurg, Katrin. 2025. “Robustness Is Better Assessed with a Few Thoughtful Models Than with Billions of Regressions.” Proceedings of the National Academy of Sciences 122 (43): e2521917122. https://doi.org/10.1073/pnas.2521917122.\n\n\nBrodeur, Abel, Derek Mikola, Nikolai Cook, et al. 2026. “Reproducibility and Robustness of Economics and Political Science Research.” Nature 652 (8108): 151–56. https://doi.org/10.1038/s41586-026-10251-x.\n\n\nCrüwell, Sophia, Johnny van Doorn, Alexander Etz, et al. 2019. “Seven Easy Steps to Open Science: An Annotated Reading List.” Zeitschrift Für Psychologie 227 (4): 237248. https://doi.org/10.1027/2151-2604/a000387.\n\n\nDevezer, Berna, Luis G Nardin, Bert Baumgaertner, and Erkan Ozge Buzbas. 2019. “Scientific Discovery in a Model-Centric Framework: Reproducibility, Innovation, and Epistemic Diversity.” PloS One 14 (5): e0216125. https://doi.org/10.1371/journal.pone.0216125.\n\n\nDevezer, Berna, Danielle J. Navarro, Joachim Vandekerckhove, and Erkan Ozge Buzbas. 2021. “The Case for Formal Methodology in Scientific Reform.” Royal Society Open Science 8 (3): rsos.200805, 200805. https://doi.org/10.1098/rsos.200805.\n\n\nDuBois, James M. 2024. Sharing Qualitative Research Data: Survey of Qualitative Researchers, United States, 2019: Version 1. ICPSR - Interuniversity Consortium for Political and Social Research. https://doi.org/10.3886/ICPSR38957.V1.\n\n\nHeaton, Janet. 2008. “Secondary Analysis of Qualitative Data: An Overview.” Historical Social Research 33 (3). https://www.jstor.org/stable/20762299.\n\n\nLamb, Danielle, Amy Russell, Nicola Morant, and Fiona Stevenson. 2024. “The Challenges of Open Data Sharing for Qualitative Researchers.” Journal of Health Psychology 29 (7): 659–64. https://doi.org/10.1177/13591053241237620.\n\n\nMeehl, Paul E. 1990. “Why Summaries of Research on Psychological Theories Are Often Uninterpretable.” Psychological Reports 66 (1): 195–244. https://doi.org/10.2466/pr0.1990.66.1.195.\n\n\nMiske, Olivia, Anna Lou Abatayo, Mason Daley, et al. 2026. “Investigating the Reproducibility of the Social and Behavioural Sciences.” Nature 652 (8108): 126–34. https://doi.org/10.1038/s41586-026-10203-5.\n\n\nMorin, Edgar, and Anne Brigitte Kern. 1999. Homeland earth: a manifesto for the new millenium. Advances in systems theory, complexity, and the human sciences. Hampton Press.\n\n\nMunafò, Marcus R., Brian A. Nosek, Dorothy V. M. Bishop, et al. 2017. “A Manifesto for Reproducible Science.” Nature Human Behaviour 1 (1): 21. https://doi.org/10.1038/s41562-016-0021.\n\n\nOpen Science Collaboration. 2015. “Estimating the Reproducibility of Psychological Science.” Science 349 (6251): aac4716. https://doi.org/10.1126/science.aac4716.\n\n\nPashler, Harold, and Eric-Jan Wagenmakers. 2012. “Editors’ Introduction to the Special Section on Replicability in Psychological Science: A Crisis of Confidence?” Perspectives on Psychological Science 7 (6): 528530. https://doi.org/10.1177/1745691612465253.\n\n\nScheel, Anne M., Leonid Tiokhin, Peder M. Isager, and Daniël Lakens. 2020. “Why Hypothesis Testers Should Spend Less Time Testing Hypotheses.” Perspectives on Psychological Science 16 (4): 744755. https://doi.org/10.1177/1745691620966795.\n\n\nTooze, Adam. 2023. “Welcome to the World of the Polycrisis.” Financial Times 28 (10). https://www.ft.com/content/498398e7-11b1-494b-9cd3-6d669dc3de33.\n\n\nYarkoni, Tal. 2022. “The Generalizability Crisis.” Behavioral and Brain Sciences 45. https://doi.org/10.1017/s0140525x20001685."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Open Research practices for the social and human disciplines",
+    "objectID": "practice/03-versioning.html",
+    "href": "practice/03-versioning.html",
+    "title": "03 - Git (practice)",
     "section": "",
-    "text": "This is the website of the Spring Into Methods workshop Open Research practices for the social and human disciplines."
+    "text": "This tutorial walks you through basic Git usage: creating a repository, adding and committing files, making changes, and working with branches."
   },
   {
-    "objectID": "slides/03-versioning.html#why-should-you-learn-version-control",
-    "href": "slides/03-versioning.html#why-should-you-learn-version-control",
-    "title": "03 - Version control",
-    "section": "Why should you learn version control?",
-    "text": "Why should you learn version control?"
+    "objectID": "practice/03-versioning.html#prerequisites",
+    "href": "practice/03-versioning.html#prerequisites",
+    "title": "03 - Git (practice)",
+    "section": "0. Prerequisites",
+    "text": "0. Prerequisites\nYou were asked to install git for your operating system. You can verify your installation by running the following in the Terminal (macOS) or the Git Bash console (win).\ngit --version\nIf you have to install git, follow the instructions from the website https://git-scm.com."
   },
   {
-    "objectID": "slides/03-versioning.html#how-does-version-control-work",
-    "href": "slides/03-versioning.html#how-does-version-control-work",
-    "title": "03 - Version control",
-    "section": "How does version control work?",
-    "text": "How does version control work?"
+    "objectID": "practice/03-versioning.html#create-a-new-repository",
+    "href": "practice/03-versioning.html#create-a-new-repository",
+    "title": "03 - Git (practice)",
+    "section": "1. Create a new repository",
+    "text": "1. Create a new repository\nThe following are commands that you should type in the Terminal (macOS) or Git Bash console (win). Type one line at a time and hit ENTER on your keyboard to run the command.\nHere we crate a new folder (mkdir), navigate to it (cd) and initiate the folder as a git repository (git init).\nmkdir git-tutorial\ncd git-tutorial\ngit init"
   },
   {
-    "objectID": "slides/03-versioning.html#version-1",
-    "href": "slides/03-versioning.html#version-1",
-    "title": "03 - Version control",
-    "section": "Version 1",
-    "text": "Version 1"
+    "objectID": "practice/03-versioning.html#create-a-text-file",
+    "href": "practice/03-versioning.html#create-a-text-file",
+    "title": "03 - Git (practice)",
+    "section": "2. Create a text file",
+    "text": "2. Create a text file\necho \"Hello, Git!\" &gt; notes.txt\nOpen the file you just created. You should see it has the sentence “Hello, Git!”\nCheck the status by running the following:\ngit status\nThe message printed by git status tells you that there is a new file that is not yet tracked by git."
   },
   {
-    "objectID": "slides/03-versioning.html#version-1-snapshot",
-    "href": "slides/03-versioning.html#version-1-snapshot",
-    "title": "03 - Version control",
-    "section": "Version 1 snapshot",
-    "text": "Version 1 snapshot"
+    "objectID": "practice/03-versioning.html#add-and-commit-the-file",
+    "href": "practice/03-versioning.html#add-and-commit-the-file",
+    "title": "03 - Git (practice)",
+    "section": "3. Add and commit the file",
+    "text": "3. Add and commit the file\nAdd the changes to the “staging area” and commit the changes to the repository\ngit add notes.txt\ngit commit -m \"Add notes\"\nTry git status again. It will tell you that there are no new changes."
   },
   {
-    "objectID": "slides/03-versioning.html#version-2",
-    "href": "slides/03-versioning.html#version-2",
-    "title": "03 - Version control",
-    "section": "Version 2",
-    "text": "Version 2"
+    "objectID": "practice/03-versioning.html#modify-the-file",
+    "href": "practice/03-versioning.html#modify-the-file",
+    "title": "03 - Git (practice)",
+    "section": "4. Modify the file",
+    "text": "4. Modify the file\nNow, write a new line in the notex.txt file. You can write whatever you want.\nNow check changes:\ngit status\nYou can view what changed with the following:\ngit diff"
   },
   {
-    "objectID": "slides/03-versioning.html#version-2-snapshot",
-    "href": "slides/03-versioning.html#version-2-snapshot",
-    "title": "03 - Version control",
-    "section": "Version 2 snapshot",
-    "text": "Version 2 snapshot"
+    "objectID": "practice/03-versioning.html#commit-the-changes",
+    "href": "practice/03-versioning.html#commit-the-changes",
+    "title": "03 - Git (practice)",
+    "section": "5. Commit the changes",
+    "text": "5. Commit the changes\ngit add notes.txt\ngit commit -m \"Update notes\""
   },
   {
-    "objectID": "slides/03-versioning.html#version-3",
-    "href": "slides/03-versioning.html#version-3",
-    "title": "03 - Version control",
-    "section": "Version 3",
-    "text": "Version 3"
+    "objectID": "practice/03-versioning.html#add-another-file",
+    "href": "practice/03-versioning.html#add-another-file",
+    "title": "03 - Git (practice)",
+    "section": "6. Add another file",
+    "text": "6. Add another file\nNow create a new text file called README and write something in it.\nAdd and commit:\ngit add README.txt\ngit commit -m \"Add file\""
   },
   {
-    "objectID": "slides/03-versioning.html#version-3-snapshot",
-    "href": "slides/03-versioning.html#version-3-snapshot",
-    "title": "03 - Version control",
-    "section": "Version 3 snapshot",
-    "text": "Version 3 snapshot"
+    "objectID": "practice/03-versioning.html#create-a-new-branch",
+    "href": "practice/03-versioning.html#create-a-new-branch",
+    "title": "03 - Git (practice)",
+    "section": "7. Create a new branch",
+    "text": "7. Create a new branch\ngit branch draft\nSwitch to the new branch:\ngit checkout draft"
   },
   {
-    "objectID": "slides/03-versioning.html#the-versioning-system-git",
-    "href": "slides/03-versioning.html#the-versioning-system-git",
-    "title": "03 - Version control",
-    "section": "The versioning system git",
-    "text": "The versioning system git\n\n\n\ngit https://git-scm.com\n\ngit is a very popular choice for software development.\nTailored for tracking changes in software files.\nBut, also useful with anything that is text-based (like analysis scripts, papers, dissertations, …)."
+    "objectID": "practice/03-versioning.html#add-a-file-in-the-new-branch",
+    "href": "practice/03-versioning.html#add-a-file-in-the-new-branch",
+    "title": "03 - Git (practice)",
+    "section": "8. Add a file in the new branch",
+    "text": "8. Add a file in the new branch\nCreate a file called LICENSE and write “CC0” (this is the Creative Commons Public license).\ngit add LICENSE.txt\ngit commit -m \"Add license\""
   },
   {
-    "objectID": "slides/03-versioning.html#what-can-git-do-for-you",
-    "href": "slides/03-versioning.html#what-can-git-do-for-you",
-    "title": "03 - Version control",
-    "section": "What can git do for you?",
-    "text": "What can git do for you?\n\n\n\n\nKeep track of new or deleted files in a project.\nKeep track of changes to individual files in a project.\n\nDone on a line-by-line basis.\n\nRoll back to a previous version of the project or files.\nMake back-ups of your files."
+    "objectID": "practice/03-versioning.html#switch-back-to-main-branch",
+    "href": "practice/03-versioning.html#switch-back-to-main-branch",
+    "title": "03 - Git (practice)",
+    "section": "9. Switch back to main branch",
+    "text": "9. Switch back to main branch\ngit checkout main\nYou will see that the LICENSE.txt file is gone."
   },
   {
-    "objectID": "slides/03-versioning.html#demo",
-    "href": "slides/03-versioning.html#demo",
-    "title": "03 - Version control",
-    "section": "DEMO",
-    "text": "DEMO"
+    "objectID": "practice/03-versioning.html#check-branches",
+    "href": "practice/03-versioning.html#check-branches",
+    "title": "03 - Git (practice)",
+    "section": "10. Check branches",
+    "text": "10. Check branches\nThe following code lists the existing branches.\ngit branch"
   },
   {
-    "objectID": "slides/03-versioning.html#practice",
-    "href": "slides/03-versioning.html#practice",
-    "title": "03 - Version control",
-    "section": "Practice",
-    "text": "Practice"
+    "objectID": "practice/03-versioning.html#view-commit-history",
+    "href": "practice/03-versioning.html#view-commit-history",
+    "title": "03 - Git (practice)",
+    "section": "11. View commit history",
+    "text": "11. View commit history\ngit log --oneline"
   },
   {
-    "objectID": "slides/02-rescomp.html#research-compendium",
-    "href": "slides/02-rescomp.html#research-compendium",
-    "title": "02 - Research Compendia",
-    "section": "Research compendium",
-    "text": "Research compendium\n\nA research compendium accompanies, enhances, or is a scientific publication providing data, code, and documentation for reproducing a scientific workflow.\n\n—Research compendium\n\n\nA research compendium is a collection of all digital parts of a research project including data, code, texts (protocols, reports, questionnaires, meta data). The collection is created in such a way that reproducing all results is straightforward.\n\n—The Turing Way: Research compendia"
-  },
-  {
-    "objectID": "slides/02-rescomp.html#research-compendium-1",
-    "href": "slides/02-rescomp.html#research-compendium-1",
-    "title": "02 - Research Compendia",
-    "section": "Research compendium",
-    "text": "Research compendium\n\n\n\nResearch Compendium\n\n\nA research compendium is a repository containing all materials, code, notebooks, images, data, metadata, manuscripts, etc of a project. A compendium is structured in a way that makes the research process transparent and reproducible.\n\n\n\n\n\n\n\n\nIdeally, use a single main folder.\n\nCompendia can belong to a super-project and have sub-project compendia/folders. A single paper can also be associated to a specific compendium.\n\nOrganise files and folders inside according to type and context: separate data, code, images.\nSeparate raw and derived data.\nUse as much automation as possible.\nDocument everything (for example with READMEs)."
-  },
-  {
-    "objectID": "slides/02-rescomp.html#organise-your-files",
-    "href": "slides/02-rescomp.html#organise-your-files",
-    "title": "02 - Research Compendia",
-    "section": "Organise your files",
-    "text": "Organise your files\n\n\n\n\nCreate one folder and make that the folder for your dissertation project.\nIn that folder, create folders for data/ and for scripts/ (and plots/, dissertation/, etc).\n\n\n\n\n\n\n\n\nIn data/ have a raw/ and derived/ folder:\n\nRaw data (data that, if lost, it is very unfortunate; for example, experiment data, data which was manually annotated, etc) should be saved in data/raw/.\nDerived data (data that is derived with scripts) should be saved in data/derived/."
-  },
-  {
-    "objectID": "slides/02-rescomp.html#licensing",
-    "href": "slides/02-rescomp.html#licensing",
-    "title": "02 - Research Compendia",
-    "section": "Licensing",
-    "text": "Licensing\n\n\n\nPick a license\n\n\n\nCreative Commons is a commonly chosen license: https://creativecommons.org/chooser/\nOther licenses (for software): MIT License, GNU license.\nAlways include a LICENSE file in your compendium and be explicit which parts of the compendium fall under which license."
-  },
-  {
-    "objectID": "slides/02-rescomp.html#backup-backup-backup",
-    "href": "slides/02-rescomp.html#backup-backup-backup",
-    "title": "02 - Research Compendia",
-    "section": "Backup, backup, BACKUP!",
-    "text": "Backup, backup, BACKUP!\nMake sure you have a backup system in place.\n\n\n\n\n\nSaving copies of the entire folder in an external hard drive.\nSaving copies of the entire folder in an online storage service (iCloud Drive, One Drive, DropBox, Google Drive, …).\nUsing a versioning system like git."
-  },
-  {
-    "objectID": "slides/02-rescomp.html#research-projects-are-dyanamic",
-    "href": "slides/02-rescomp.html#research-projects-are-dyanamic",
-    "title": "02 - Research Compendia",
-    "section": "Research projects are dyanamic",
-    "text": "Research projects are dyanamic\n\n\n\n\nBe prepared to change how files and folders are organised after you start.\nProjects evolve over time and sometimes you need to clean things up.\n\n\n\n\n\n\n\n\nUse a good system to mark versions in your files. Two simple systems:\n\nUse full DATE in the file name\n\ndissertation-2022-11-21.\ndissertation-2023-03-01.\n\nUse version number\n\nInspired by Semantic versioning from programming but can be helpful with research files too!\ndissertation-v1.0.\ndissertation-v1.1.\ndissertation-v2.0."
-  },
-  {
-    "objectID": "slides/02-rescomp.html#research-compendium-bad-example",
-    "href": "slides/02-rescomp.html#research-compendium-bad-example",
-    "title": "02 - Research Compendia",
-    "section": "Research compendium: bad example",
-    "text": "Research compendium: bad example"
-  },
-  {
-    "objectID": "slides/02-rescomp.html#research-compendium-good-example",
-    "href": "slides/02-rescomp.html#research-compendium-good-example",
-    "title": "02 - Research Compendia",
-    "section": "Research compendium: good example",
-    "text": "Research compendium: good example"
-  },
-  {
-    "objectID": "slides/02-rescomp.html#data-management-protocol",
-    "href": "slides/02-rescomp.html#data-management-protocol",
-    "title": "02 - Research Compendia",
-    "section": "Data Management Protocol",
-    "text": "Data Management Protocol\n\n\n\nA Data Management Plan (DMP) covers data types and volume, capture, storage, integrity, confidentiality, retention and destruction, sharing and deposit."
-  },
-  {
-    "objectID": "slides/02-rescomp.html#sharing-research-compendia",
-    "href": "slides/02-rescomp.html#sharing-research-compendia",
-    "title": "02 - Research Compendia",
-    "section": "Sharing research compendia",
-    "text": "Sharing research compendia"
-  },
-  {
-    "objectID": "slides/02-rescomp.html#practice",
-    "href": "slides/02-rescomp.html#practice",
-    "title": "02 - Research Compendia",
-    "section": "Practice",
-    "text": "Practice"
+    "objectID": "practice/03-versioning.html#summary",
+    "href": "practice/03-versioning.html#summary",
+    "title": "03 - Git (practice)",
+    "section": "Summary",
+    "text": "Summary\nYou have:\n\nCreated a repository\nAdded and committed files\nModified and recommitted changes\nCreated and switched branches\nWorked independently on a branch"
   }
 ]

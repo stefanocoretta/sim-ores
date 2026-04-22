@@ -22,6 +22,8 @@ website:
         menu: 
           - href: "practice/02-rescomp.qmd"
             text: "02 - Research Compendia"
+          - href: "practice/03-versioning.qmd"
+            text: "03 - Version control"
 
 
 format:
