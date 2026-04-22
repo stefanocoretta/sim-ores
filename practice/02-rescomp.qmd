@@ -1,0 +1,28 @@
+---
+title: "02 - Research compendia (practice)"
+---
+
+For this exercise you are asked to look through a set of files that belong to a fictitious study.
+We recommend you to form pairs/groups of three and work through this together or even just share thoughts while you work on the exercise independently.
+
+You have two options, either a qualitative study or a quantitative study (but feel free to play with both!).
+After familiarising yourself with the files (if you have questions, ask us!), you should rename and organise the files in a research compendium and upload it to the Open Science Framework.
+
+::: {.callout-tip appearance="simple"}
+1.  First, create an Open Science Framework (OSF) account if you don't have one already: <https://osf.io/register>.
+
+2.  Download zip archives with the studies here: [qual](../materials/rescomp-qual.zip), [quant](../materials/rescomp-quant.zip).
+
+3.  Familiarise yourself with the files and ask us if you have questions.
+
+4.  Rename and organise the files in folder to create a research compendium.
+
+5.  Add a README file explaining the structure of the compendium.
+
+6.  Add a LICENSE file.
+
+7.  Write a log file where you explain the changes and how you have reorganised the files.
+    You can call this file CHANGELOG or NEWS or anything else that makes sense in your field.
+
+8.  When you are happy, create an OSF project and upload your research compendium
+:::
