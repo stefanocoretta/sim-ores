@@ -383,5 +383,82 @@
     "title": "03 - Git (practice)",
     "section": "Summary",
     "text": "Summary\nYou have:\n\nCreated a repository\nAdded and committed files\nModified and recommitted changes\nCreated and switched branches\nWorked independently on a branch"
+  },
+  {
+    "objectID": "slides/04-registered.html#research-process-cycle",
+    "href": "slides/04-registered.html#research-process-cycle",
+    "title": "04 - Preregistration and Registered Reports",
+    "section": "Research process cycle",
+    "text": "Research process cycle"
+  },
+  {
+    "objectID": "slides/04-registered.html#questionable-research-practices-qrps",
+    "href": "slides/04-registered.html#questionable-research-practices-qrps",
+    "title": "04 - Preregistration and Registered Reports",
+    "section": "Questionable research practices (QRPs)",
+    "text": "Questionable research practices (QRPs)"
+  },
+  {
+    "objectID": "slides/04-registered.html#traditional-publishing",
+    "href": "slides/04-registered.html#traditional-publishing",
+    "title": "04 - Preregistration and Registered Reports",
+    "section": "Traditional publishing",
+    "text": "Traditional publishing"
+  },
+  {
+    "objectID": "slides/04-registered.html#registered-reports",
+    "href": "slides/04-registered.html#registered-reports",
+    "title": "04 - Preregistration and Registered Reports",
+    "section": "Registered Reports",
+    "text": "Registered Reports"
+  },
+  {
+    "objectID": "slides/04-registered.html#proportion-of-negative-results",
+    "href": "slides/04-registered.html#proportion-of-negative-results",
+    "title": "04 - Preregistration and Registered Reports",
+    "section": "Proportion of negative results",
+    "text": "Proportion of negative results\n\nFrom Scheel et al. (2021)."
+  },
+  {
+    "objectID": "slides/04-registered.html#not-killing-the-vibe",
+    "href": "slides/04-registered.html#not-killing-the-vibe",
+    "title": "04 - Preregistration and Registered Reports",
+    "section": "Not killing the vibe",
+    "text": "Not killing the vibe\n\nFrom Soderberg et al. (2021)."
+  },
+  {
+    "objectID": "slides/04-registered.html#how-to-write-an-rr",
+    "href": "slides/04-registered.html#how-to-write-an-rr",
+    "title": "04 - Preregistration and Registered Reports",
+    "section": "How to write an RR",
+    "text": "How to write an RR\n\n\n\nStage 1 manuscript\n\n\n\nWrite introduction, background and methods.\nTarget specific and clear RQs (and RHs) and assess feasibility (within constraints).\nPilot studies or data simulations.\nPrepare a research compendium and ensure reproducibility.\n\n\n\n\n\n\n\n\nIn Principle Acceptance\n\n\nCarry out the study according to the Stage 1 registered protocol.\n\n\n\n\n\n\n\n\nStage 2 manuscript\n\n\n\nWrite results (of registered analyses + optional exploratory non-registered analyses), discussion and conclusion."
+  },
+  {
+    "objectID": "slides/04-registered.html#venues",
+    "href": "slides/04-registered.html#venues",
+    "title": "04 - Preregistration and Registered Reports",
+    "section": "Venues",
+    "text": "Venues\n\n\n\n\nRegistered Reports in Linguistics (RRLing): https://journals.ed.ac.uk/rrling/index\nJournal of Phonetics.\nLanguage and Speech.\nBilingualism: Language and Cognition.\nGlossa Psycholinguistics."
+  },
+  {
+    "objectID": "slides/04-registered.html#guidance-for-supervisors",
+    "href": "slides/04-registered.html#guidance-for-supervisors",
+    "title": "04 - Preregistration and Registered Reports",
+    "section": "Guidance for supervisors",
+    "text": "Guidance for supervisors\n\n\n\n\nPhD students especially can benefit from RRs.\nMaster students: Stage 1 manuscript as dissertation.\n\nStart very early (Semester 1).\nArrangements for post-IPA."
+  },
+  {
+    "objectID": "slides/04-registered.html#make-your-next-study-a-registered-report",
+    "href": "slides/04-registered.html#make-your-next-study-a-registered-report",
+    "title": "04 - Preregistration and Registered Reports",
+    "section": "Make your next study a Registered Report!",
+    "text": "Make your next study a Registered Report!"
+  },
+  {
+    "objectID": "slides/04-registered.html#references",
+    "href": "slides/04-registered.html#references",
+    "title": "04 - Preregistration and Registered Reports",
+    "section": "References",
+    "text": "References\n\n\n\n\nScheel, Anne M., Mitchell R. M. J. Schijen, and Daniël Lakens. 2021. “An Excess of Positive Results: Comparing the Standard Psychology Literature with Registered Reports.” Advances in Methods and Practices in Psychological Science 4 (2): 25152459211007467. https://doi.org/10.1177/25152459211007467.\n\n\nSoderberg, Courtney K., Timothy M. Errington, Sarah R. Schiavone, et al. 2021. “Initial Evidence of Research Quality of Registered Reports Compared with the Standard Publishing Model.” Nature Human Behaviour 5 (8): 990–97. https://doi.org/10.1038/s41562-021-01142-4."
   }
 ]
