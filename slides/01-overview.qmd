@@ -36,19 +36,7 @@ bibliography: references.bib
 
 ## The research crisis
 
-:::::: columns
-::: {.column width="60%"}
--   Part of the polycrisis [@morin1999; @tooze2023].
-
--   @meehl1990: uninterpretability of conceptual models.
-
--   @pashler2012: "a crisis of confidence?".
-
--   @yarkoni2022: lack of meaningful connection between verbal generalisations and evidence.
-
--   @scheel2020: we are not even wrong.
-:::
-
+:::::::: columns
 :::: {.column width="40%"}
 ![](../img/nik-0urrnqA66Lo-unsplash-2.jpg){width="350" fig-align="right"}
 
@@ -56,7 +44,23 @@ bibliography: references.bib
 [Photo by <a href="https://unsplash.com/@helloimnik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nik</a> on <a href="https://unsplash.com/photos/red-text-on-black-background-0urrnqA66Lo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]{style="font-size: 8px;"}
 :::
 ::::
-::::::
+
+::::: {.column width="60%"}
+:::: {.callout-note appearance="simple"}
+::: incremental
+-   @meehl1990: **uninterpretability** of conceptual models.
+
+-   @pashler2012: "a crisis of **confidence**?".
+
+-   @scheel2020: we are not even wrong.
+
+-   @yarkoni2022: lack of meaningful **connection** between verbal generalisations and evidence.
+
+-   Part of the **polycrisis** [@morin1999; @tooze2023].
+:::
+::::
+:::::
+::::::::
 
 ## Research reliability
 
