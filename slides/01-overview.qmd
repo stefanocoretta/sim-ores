@@ -38,15 +38,15 @@ bibliography: references.bib
 
 :::::: columns
 ::: {.column width="60%"}
-- Part of the polycrisis [@morin1999; @tooze2023].
+-   Part of the polycrisis [@morin1999; @tooze2023].
 
-- @meehl1990: uninterpretability of conceptual models.
+-   @meehl1990: uninterpretability of conceptual models.
 
-- @pashler2012: "a crisis of confidence?".
+-   @pashler2012: "a crisis of confidence?".
 
-- @yarkoni2022: lack of meaningful connection between verbal generalisations and evidence.
+-   @yarkoni2022: lack of meaningful connection between verbal generalisations and evidence.
 
-- @scheel2020: we are not even wrong.
+-   @scheel2020: we are not even wrong.
 :::
 
 :::: {.column width="40%"}
@@ -71,8 +71,8 @@ bibliography: references.bib
 ::: callout-note
 ## Research soundness
 
-- Research reliability implies that research is sound! [@yarkoni2022; @devezer2021].
-- Transparency is key.
+-   Research reliability implies that research is sound! [@yarkoni2022; @devezer2021].
+-   Transparency is key.
 :::
 
 ## Reproducibility
@@ -92,12 +92,12 @@ bibliography: references.bib
 ## Reproducibility: qualitative research
 
 ::: {.callout-note appearance="simple"}
-- @dubois2024: 96% surveyed qualitative researchers have never shared data in a repository.
+-   @dubois2024: 96% surveyed qualitative researchers have never shared data in a repository.
 
-- @lamb2024: claiming that data collector is the only legitimate knowledge gatekeeper is at odds with epistemic plurality.
+-   @lamb2024: claiming that data collector is the only legitimate knowledge gatekeeper is at odds with epistemic plurality.
 
-- @heaton2008: shows successful reuse of qualitative data.
-  Data are not epistemically exhausted by first analysis.
+-   @heaton2008: shows successful reuse of qualitative data.
+    Data are not epistemically exhausted by first analysis.
 :::
 
 ## Replicability
@@ -107,21 +107,21 @@ bibliography: references.bib
 ## Rebustness
 
 ::: {.callout-note appearance="simple"}
-- @brodeur2026: economy and political science; effect sizes that are similar (between 50% to 200% of the original effect size) under reanalysis represent 69% of the sample.
+-   @brodeur2026: economy and political science; effect sizes that are similar (between 50% to 200% of the original effect size) under reanalysis represent 69% of the sample.
 
-- @auspurg2025: not invariance across all methods, but insensitivity within a justified class of models.
+-   @auspurg2025: not invariance across all methods, but insensitivity within a justified class of models.
 :::
 
 ## Generalisability
 
 ::: {.callout-note appearance="simple"}
-- @yarkoni2022: verbal, non-formalised accounts of phenomena make things difficult.
+-   @yarkoni2022: verbal, non-formalised accounts of phenomena make things difficult.
 
-  - Do something else (also see @scheel2020).
+    -   Do something else (also see @scheel2020).
 
-  - Descriptive and qualitative research.
+    -   Descriptive and qualitative research.
 
-- @devezer2019: replicable results do not imply correct conditional inference and non-replicable results do not imply incorrect conditional inference.
+-   @devezer2019: replicable results do not imply correct conditional inference and non-replicable results do not imply incorrect conditional inference.
 :::
 
 ## Open Research
@@ -137,13 +137,15 @@ Open Research is a movement that stresses the importance of a **more honest and 
 ::: callout-important
 ## How to make your research open?
 
-- Curate and share **Research compendia**.
+-   Curate and share **Research compendia**.
 
-- Use version control.
+-   Use version control.
 
-- Write **Registered Reports**.
+-   Write **Registered Reports**.
 
-- Reflect on your **researcher's orientation**.
+-   Reflect on your **researcher's orientation**.
+
+-   Guidelines for PhD students/supervisors: @kathawalla2021.
 :::
 
 ## References

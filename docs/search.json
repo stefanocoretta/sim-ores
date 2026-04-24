@@ -84,90 +84,6 @@
     "text": "Practice"
   },
   {
-    "objectID": "slides/03-versioning.html#why-should-you-learn-version-control",
-    "href": "slides/03-versioning.html#why-should-you-learn-version-control",
-    "title": "03 - Version control",
-    "section": "Why should you learn version control?",
-    "text": "Why should you learn version control?"
-  },
-  {
-    "objectID": "slides/03-versioning.html#how-does-version-control-work",
-    "href": "slides/03-versioning.html#how-does-version-control-work",
-    "title": "03 - Version control",
-    "section": "How does version control work?",
-    "text": "How does version control work?"
-  },
-  {
-    "objectID": "slides/03-versioning.html#version-1",
-    "href": "slides/03-versioning.html#version-1",
-    "title": "03 - Version control",
-    "section": "Version 1",
-    "text": "Version 1"
-  },
-  {
-    "objectID": "slides/03-versioning.html#version-1-snapshot",
-    "href": "slides/03-versioning.html#version-1-snapshot",
-    "title": "03 - Version control",
-    "section": "Version 1 snapshot",
-    "text": "Version 1 snapshot"
-  },
-  {
-    "objectID": "slides/03-versioning.html#version-2",
-    "href": "slides/03-versioning.html#version-2",
-    "title": "03 - Version control",
-    "section": "Version 2",
-    "text": "Version 2"
-  },
-  {
-    "objectID": "slides/03-versioning.html#version-2-snapshot",
-    "href": "slides/03-versioning.html#version-2-snapshot",
-    "title": "03 - Version control",
-    "section": "Version 2 snapshot",
-    "text": "Version 2 snapshot"
-  },
-  {
-    "objectID": "slides/03-versioning.html#version-3",
-    "href": "slides/03-versioning.html#version-3",
-    "title": "03 - Version control",
-    "section": "Version 3",
-    "text": "Version 3"
-  },
-  {
-    "objectID": "slides/03-versioning.html#version-3-snapshot",
-    "href": "slides/03-versioning.html#version-3-snapshot",
-    "title": "03 - Version control",
-    "section": "Version 3 snapshot",
-    "text": "Version 3 snapshot"
-  },
-  {
-    "objectID": "slides/03-versioning.html#the-versioning-system-git",
-    "href": "slides/03-versioning.html#the-versioning-system-git",
-    "title": "03 - Version control",
-    "section": "The versioning system git",
-    "text": "The versioning system git\n\n\n\ngit https://git-scm.com\n\ngit is a very popular choice for software development.\nTailored for tracking changes in software files.\nBut, also useful with anything that is text-based (like analysis scripts, papers, dissertations, …)."
-  },
-  {
-    "objectID": "slides/03-versioning.html#what-can-git-do-for-you",
-    "href": "slides/03-versioning.html#what-can-git-do-for-you",
-    "title": "03 - Version control",
-    "section": "What can git do for you?",
-    "text": "What can git do for you?\n\n\n\n\nKeep track of new or deleted files in a project.\nKeep track of changes to individual files in a project.\n\nDone on a line-by-line basis.\n\nRoll back to a previous version of the project or files.\nMake back-ups of your files."
-  },
-  {
-    "objectID": "slides/03-versioning.html#practice",
-    "href": "slides/03-versioning.html#practice",
-    "title": "03 - Version control",
-    "section": "Practice",
-    "text": "Practice"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Open Research practices for the social and human disciplines",
-    "section": "",
-    "text": "This is the website of the Spring Into Methods workshop Open Research practices for the social and human disciplines."
-  },
-  {
     "objectID": "slides/01-overview.html#built-in-control",
     "href": "slides/01-overview.html#built-in-control",
     "title": "01 - Overview",
@@ -277,14 +193,189 @@
     "href": "slides/01-overview.html#open-research",
     "title": "01 - Overview",
     "section": "Open Research",
-    "text": "Open Research\n\n\n\nWhat is it?\n\n\nOpen Research is a movement that stresses the importance of a more honest and transparent research by promoting a series of research principles and by warning about common, although not necessarily intentional, questionable practices and misconceptions (Munafò et al. 2017; Crüwell et al. 2019).\n\n\n\n\n\n\n\nHow to make your research open?\n\n\n\nCurate and share Research compendia.\nUse version control.\nWrite Registered Reports.\nReflect on your researcher’s orientation."
+    "text": "Open Research\n\n\n\nWhat is it?\n\n\nOpen Research is a movement that stresses the importance of a more honest and transparent research by promoting a series of research principles and by warning about common, although not necessarily intentional, questionable practices and misconceptions (Munafò et al. 2017; Crüwell et al. 2019).\n\n\n\n\n\n\n\nHow to make your research open?\n\n\n\nCurate and share Research compendia.\nUse version control.\nWrite Registered Reports.\nReflect on your researcher’s orientation.\nGuidelines for PhD students/supervisors: Kathawalla, Silverstein, and Syed (2021)."
   },
   {
     "objectID": "slides/01-overview.html#references",
     "href": "slides/01-overview.html#references",
     "title": "01 - Overview",
     "section": "References",
-    "text": "References\n\n\n\n\nAuspurg, Katrin. 2025. “Robustness Is Better Assessed with a Few Thoughtful Models Than with Billions of Regressions.” Proceedings of the National Academy of Sciences 122 (43): e2521917122. https://doi.org/10.1073/pnas.2521917122.\n\n\nBrodeur, Abel, Derek Mikola, Nikolai Cook, et al. 2026. “Reproducibility and Robustness of Economics and Political Science Research.” Nature 652 (8108): 151–56. https://doi.org/10.1038/s41586-026-10251-x.\n\n\nCrüwell, Sophia, Johnny van Doorn, Alexander Etz, et al. 2019. “Seven Easy Steps to Open Science: An Annotated Reading List.” Zeitschrift Für Psychologie 227 (4): 237248. https://doi.org/10.1027/2151-2604/a000387.\n\n\nDevezer, Berna, Luis G Nardin, Bert Baumgaertner, and Erkan Ozge Buzbas. 2019. “Scientific Discovery in a Model-Centric Framework: Reproducibility, Innovation, and Epistemic Diversity.” PloS One 14 (5): e0216125. https://doi.org/10.1371/journal.pone.0216125.\n\n\nDevezer, Berna, Danielle J. Navarro, Joachim Vandekerckhove, and Erkan Ozge Buzbas. 2021. “The Case for Formal Methodology in Scientific Reform.” Royal Society Open Science 8 (3): rsos.200805, 200805. https://doi.org/10.1098/rsos.200805.\n\n\nDuBois, James M. 2024. Sharing Qualitative Research Data: Survey of Qualitative Researchers, United States, 2019: Version 1. ICPSR - Interuniversity Consortium for Political and Social Research. https://doi.org/10.3886/ICPSR38957.V1.\n\n\nHeaton, Janet. 2008. “Secondary Analysis of Qualitative Data: An Overview.” Historical Social Research 33 (3). https://www.jstor.org/stable/20762299.\n\n\nLamb, Danielle, Amy Russell, Nicola Morant, and Fiona Stevenson. 2024. “The Challenges of Open Data Sharing for Qualitative Researchers.” Journal of Health Psychology 29 (7): 659–64. https://doi.org/10.1177/13591053241237620.\n\n\nMeehl, Paul E. 1990. “Why Summaries of Research on Psychological Theories Are Often Uninterpretable.” Psychological Reports 66 (1): 195–244. https://doi.org/10.2466/pr0.1990.66.1.195.\n\n\nMiske, Olivia, Anna Lou Abatayo, Mason Daley, et al. 2026. “Investigating the Reproducibility of the Social and Behavioural Sciences.” Nature 652 (8108): 126–34. https://doi.org/10.1038/s41586-026-10203-5.\n\n\nMorin, Edgar, and Anne Brigitte Kern. 1999. Homeland earth: a manifesto for the new millenium. Advances in systems theory, complexity, and the human sciences. Hampton Press.\n\n\nMunafò, Marcus R., Brian A. Nosek, Dorothy V. M. Bishop, et al. 2017. “A Manifesto for Reproducible Science.” Nature Human Behaviour 1 (1): 21. https://doi.org/10.1038/s41562-016-0021.\n\n\nOpen Science Collaboration. 2015. “Estimating the Reproducibility of Psychological Science.” Science 349 (6251): aac4716. https://doi.org/10.1126/science.aac4716.\n\n\nPashler, Harold, and Eric-Jan Wagenmakers. 2012. “Editors’ Introduction to the Special Section on Replicability in Psychological Science: A Crisis of Confidence?” Perspectives on Psychological Science 7 (6): 528530. https://doi.org/10.1177/1745691612465253.\n\n\nScheel, Anne M., Leonid Tiokhin, Peder M. Isager, and Daniël Lakens. 2020. “Why Hypothesis Testers Should Spend Less Time Testing Hypotheses.” Perspectives on Psychological Science 16 (4): 744755. https://doi.org/10.1177/1745691620966795.\n\n\nTooze, Adam. 2023. “Welcome to the World of the Polycrisis.” Financial Times 28 (10). https://www.ft.com/content/498398e7-11b1-494b-9cd3-6d669dc3de33.\n\n\nYarkoni, Tal. 2022. “The Generalizability Crisis.” Behavioral and Brain Sciences 45. https://doi.org/10.1017/s0140525x20001685."
+    "text": "References\n\n\n\n\nAuspurg, Katrin. 2025. “Robustness Is Better Assessed with a Few Thoughtful Models Than with Billions of Regressions.” Proceedings of the National Academy of Sciences 122 (43): e2521917122. https://doi.org/10.1073/pnas.2521917122.\n\n\nBrodeur, Abel, Derek Mikola, Nikolai Cook, Lenka Fiala, Thomas Brailey, Ryan Briggs, Alexandra De Gendre, et al. 2026. “Reproducibility and Robustness of Economics and Political Science Research.” Nature 652 (8108): 151–56. https://doi.org/10.1038/s41586-026-10251-x.\n\n\nCrüwell, Sophia, Johnny van Doorn, Alexander Etz, Matthew C. Makel, Hannah Moshontz, Jesse Niebaum, Amy Orben, Sam Parsons, and Michael Schulte-Mecklenbeck. 2019. “Seven Easy Steps to Open Science: An Annotated Reading List.” Zeitschrift Für Psychologie 227 (4): 237248. https://doi.org/10.1027/2151-2604/a000387.\n\n\nDevezer, Berna, Luis G Nardin, Bert Baumgaertner, and Erkan Ozge Buzbas. 2019. “Scientific Discovery in a Model-Centric Framework: Reproducibility, Innovation, and Epistemic Diversity.” PloS One 14 (5): e0216125. https://doi.org/10.1371/journal.pone.0216125.\n\n\nDevezer, Berna, Danielle J. Navarro, Joachim Vandekerckhove, and Erkan Ozge Buzbas. 2021. “The Case for Formal Methodology in Scientific Reform.” Royal Society Open Science 8 (3): rsos.200805, 200805. https://doi.org/10.1098/rsos.200805.\n\n\nDuBois, James M. 2024. “Sharing Qualitative Research Data: Survey of Qualitative Researchers, United States, 2019: Version 1.” ICPSR - Interuniversity Consortium for Political and Social Research. https://doi.org/10.3886/ICPSR38957.V1.\n\n\nHeaton, Janet. 2008. “Secondary Analysis of Qualitative Data: An Overview.” Historical Social Research 33 (3). https://www.jstor.org/stable/20762299.\n\n\nKathawalla, Ummul-Kiram, Priya Silverstein, and Moin Syed. 2021. “Easing Into Open Science: A Guide for Graduate Students and Their Advisors.” Edited by Eunike Wetzel. Collabra: Psychology 7 (1): 18684. https://doi.org/10.1525/collabra.18684.\n\n\nLamb, Danielle, Amy Russell, Nicola Morant, and Fiona Stevenson. 2024. “The Challenges of Open Data Sharing for Qualitative Researchers.” Journal of Health Psychology 29 (7): 659–64. https://doi.org/10.1177/13591053241237620.\n\n\nMeehl, Paul E. 1990. “Why Summaries of Research on Psychological Theories Are Often Uninterpretable.” Psychological Reports 66 (1): 195–244. https://doi.org/10.2466/pr0.1990.66.1.195.\n\n\nMiske, Olivia, Anna Lou Abatayo, Mason Daley, Mirka Dirzo, Nicholas Fox, Noah Haber, Krystal M. Hahn, et al. 2026. “Investigating the Reproducibility of the Social and Behavioural Sciences.” Nature 652 (8108): 126–34. https://doi.org/10.1038/s41586-026-10203-5.\n\n\nMorin, Edgar, and Anne Brigitte Kern. 1999. Homeland earth: a manifesto for the new millenium. Advances in systems theory, complexity, and the human sciences. Cresskill, N.J: Hampton Press.\n\n\nMunafò, Marcus R., Brian A. Nosek, Dorothy V. M. Bishop, Katherine S. Button, Christopher D. Chambers, Nathalie Percie Du Sert, Uri Simonsohn, Eric-Jan Wagenmakers, Jennifer J. Ware, and John P. A. Ioannidis. 2017. “A Manifesto for Reproducible Science.” Nature Human Behaviour 1 (1): 21. https://doi.org/10.1038/s41562-016-0021.\n\n\nOpen Science Collaboration. 2015. “Estimating the Reproducibility of Psychological Science.” Science 349 (6251): aac4716. https://doi.org/10.1126/science.aac4716.\n\n\nPashler, Harold, and Eric-Jan Wagenmakers. 2012. “Editors’ Introduction to the Special Section on Replicability in Psychological Science: A Crisis of Confidence?” Perspectives on Psychological Science 7 (6): 528530. https://doi.org/10.1177/1745691612465253.\n\n\nScheel, Anne M., Leonid Tiokhin, Peder M. Isager, and Daniël Lakens. 2020. “Why Hypothesis Testers Should Spend Less Time Testing Hypotheses.” Perspectives on Psychological Science 16 (4): 744755. https://doi.org/10.1177/1745691620966795.\n\n\nTooze, Adam. 2023. “Welcome to the World of the Polycrisis.” Financial Times 28 (10). https://www.ft.com/content/498398e7-11b1-494b-9cd3-6d669dc3de33.\n\n\nYarkoni, Tal. 2022. “The Generalizability Crisis.” Behavioral and Brain Sciences 45. https://doi.org/10.1017/s0140525x20001685."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Open Research practices for the social and human disciplines",
+    "section": "",
+    "text": "This is the website of the Spring Into Methods workshop Open Research practices for the social and human disciplines."
+  },
+  {
+    "objectID": "slides/03-versioning.html#why-should-you-learn-version-control",
+    "href": "slides/03-versioning.html#why-should-you-learn-version-control",
+    "title": "03 - Version control",
+    "section": "Why should you learn version control?",
+    "text": "Why should you learn version control?"
+  },
+  {
+    "objectID": "slides/03-versioning.html#how-does-version-control-work",
+    "href": "slides/03-versioning.html#how-does-version-control-work",
+    "title": "03 - Version control",
+    "section": "How does version control work?",
+    "text": "How does version control work?"
+  },
+  {
+    "objectID": "slides/03-versioning.html#version-1",
+    "href": "slides/03-versioning.html#version-1",
+    "title": "03 - Version control",
+    "section": "Version 1",
+    "text": "Version 1"
+  },
+  {
+    "objectID": "slides/03-versioning.html#version-1-snapshot",
+    "href": "slides/03-versioning.html#version-1-snapshot",
+    "title": "03 - Version control",
+    "section": "Version 1 snapshot",
+    "text": "Version 1 snapshot"
+  },
+  {
+    "objectID": "slides/03-versioning.html#version-2",
+    "href": "slides/03-versioning.html#version-2",
+    "title": "03 - Version control",
+    "section": "Version 2",
+    "text": "Version 2"
+  },
+  {
+    "objectID": "slides/03-versioning.html#version-2-snapshot",
+    "href": "slides/03-versioning.html#version-2-snapshot",
+    "title": "03 - Version control",
+    "section": "Version 2 snapshot",
+    "text": "Version 2 snapshot"
+  },
+  {
+    "objectID": "slides/03-versioning.html#version-3",
+    "href": "slides/03-versioning.html#version-3",
+    "title": "03 - Version control",
+    "section": "Version 3",
+    "text": "Version 3"
+  },
+  {
+    "objectID": "slides/03-versioning.html#version-3-snapshot",
+    "href": "slides/03-versioning.html#version-3-snapshot",
+    "title": "03 - Version control",
+    "section": "Version 3 snapshot",
+    "text": "Version 3 snapshot"
+  },
+  {
+    "objectID": "slides/03-versioning.html#the-versioning-system-git",
+    "href": "slides/03-versioning.html#the-versioning-system-git",
+    "title": "03 - Version control",
+    "section": "The versioning system git",
+    "text": "The versioning system git\n\n\n\ngit https://git-scm.com\n\ngit is a very popular choice for software development.\nTailored for tracking changes in software files.\nBut, also useful with anything that is text-based (like analysis scripts, papers, dissertations, …)."
+  },
+  {
+    "objectID": "slides/03-versioning.html#what-can-git-do-for-you",
+    "href": "slides/03-versioning.html#what-can-git-do-for-you",
+    "title": "03 - Version control",
+    "section": "What can git do for you?",
+    "text": "What can git do for you?\n\n\n\n\nKeep track of new or deleted files in a project.\nKeep track of changes to individual files in a project.\n\nDone on a line-by-line basis.\n\nRoll back to a previous version of the project or files.\nMake back-ups of your files."
+  },
+  {
+    "objectID": "slides/03-versioning.html#practice",
+    "href": "slides/03-versioning.html#practice",
+    "title": "03 - Version control",
+    "section": "Practice",
+    "text": "Practice"
+  },
+  {
+    "objectID": "slides/04-registered.html#research-process-cycle",
+    "href": "slides/04-registered.html#research-process-cycle",
+    "title": "04 - Preregistration and Registered Reports",
+    "section": "Research process cycle",
+    "text": "Research process cycle"
+  },
+  {
+    "objectID": "slides/04-registered.html#questionable-research-practices-qrps",
+    "href": "slides/04-registered.html#questionable-research-practices-qrps",
+    "title": "04 - Preregistration and Registered Reports",
+    "section": "Questionable research practices (QRPs)",
+    "text": "Questionable research practices (QRPs)"
+  },
+  {
+    "objectID": "slides/04-registered.html#preregistration",
+    "href": "slides/04-registered.html#preregistration",
+    "title": "04 - Preregistration and Registered Reports",
+    "section": "Preregistration",
+    "text": "Preregistration\n\n\n\nPreregistration is the practice of publicly specifying a study’s research questions/hypotheses, methods, and analysis plan in advance to control for analytic adequacy and increase transparency in research.\n\n\n\n\n\n\n\n\nYou write a document with the plan.\nYou upload it to a preregistration service (like OSF, aspredicted.org, …)\nIt is time-stamped. You proceed with the study. No formal peer-review required."
+  },
+  {
+    "objectID": "slides/04-registered.html#traditional-publishing",
+    "href": "slides/04-registered.html#traditional-publishing",
+    "title": "04 - Preregistration and Registered Reports",
+    "section": "Traditional publishing",
+    "text": "Traditional publishing"
+  },
+  {
+    "objectID": "slides/04-registered.html#registered-reports",
+    "href": "slides/04-registered.html#registered-reports",
+    "title": "04 - Preregistration and Registered Reports",
+    "section": "Registered Reports",
+    "text": "Registered Reports"
+  },
+  {
+    "objectID": "slides/04-registered.html#how-to-write-an-rr",
+    "href": "slides/04-registered.html#how-to-write-an-rr",
+    "title": "04 - Preregistration and Registered Reports",
+    "section": "How to write an RR",
+    "text": "How to write an RR\n\n\n\nStage 1 manuscript\n\n\n\nWrite introduction, background and methods.\nTarget specific and clear RQs (and RHs) and assess feasibility (within constraints).\nPilot studies or data simulations.\nPrepare a research compendium and ensure reproducibility.\n\n\n\n\n\n\n\n\nIn Principle Acceptance\n\n\nCarry out the study according to the Stage 1 registered protocol.\n\n\n\n\n\n\n\n\nStage 2 manuscript\n\n\n\nWrite results (of registered analyses + optional exploratory non-registered analyses), discussion and conclusion."
+  },
+  {
+    "objectID": "slides/04-registered.html#resources",
+    "href": "slides/04-registered.html#resources",
+    "title": "04 - Preregistration and Registered Reports",
+    "section": "Resources",
+    "text": "Resources\n\n\n\n\nSee COS resources: https://www.cos.io/initiatives/registered-reports\nChambers et al. (2015), Chambers and Tzavella (2021), Hardwicke and Ioannidis (2018), Karhulahti (2022), Karhulahti et al. (2023), Lakens et al. (2024)."
+  },
+  {
+    "objectID": "slides/04-registered.html#proportion-of-negative-results",
+    "href": "slides/04-registered.html#proportion-of-negative-results",
+    "title": "04 - Preregistration and Registered Reports",
+    "section": "Proportion of negative results",
+    "text": "Proportion of negative results\n\nFrom Scheel, Schijen, and Lakens (2021)."
+  },
+  {
+    "objectID": "slides/04-registered.html#not-killing-the-vibe",
+    "href": "slides/04-registered.html#not-killing-the-vibe",
+    "title": "04 - Preregistration and Registered Reports",
+    "section": "Not killing the vibe",
+    "text": "Not killing the vibe\n\nFrom Soderberg et al. (2021)."
+  },
+  {
+    "objectID": "slides/04-registered.html#guidance-for-phd-students",
+    "href": "slides/04-registered.html#guidance-for-phd-students",
+    "title": "04 - Preregistration and Registered Reports",
+    "section": "Guidance for PhD students",
+    "text": "Guidance for PhD students\n\n\n\n\nPhD students can benefit from RRs.\nFirst year is critical: conceptualisation and writing of RR Stage 1.\nTime spent on preparing Stage 1 seems longer but time we should spend anyway. Overall time (from inception to publication) similar.\nStage 2 review is very quick. Most issues with traditional review are about things that should have been done, but it’s too late."
+  },
+  {
+    "objectID": "slides/04-registered.html#venues",
+    "href": "slides/04-registered.html#venues",
+    "title": "04 - Preregistration and Registered Reports",
+    "section": "Venues",
+    "text": "Venues\n\n\n\n\nSubject specific journals that offer Registered Reports.\nPCI RR: https://rr.peercommunityin.org."
+  },
+  {
+    "objectID": "slides/04-registered.html#make-your-next-study-a-registered-report",
+    "href": "slides/04-registered.html#make-your-next-study-a-registered-report",
+    "title": "04 - Preregistration and Registered Reports",
+    "section": "Make your next study a Registered Report!",
+    "text": "Make your next study a Registered Report!"
+  },
+  {
+    "objectID": "slides/04-registered.html#references",
+    "href": "slides/04-registered.html#references",
+    "title": "04 - Preregistration and Registered Reports",
+    "section": "References",
+    "text": "References\n\n\n\n\nChambers, Christopher D., Zoltan Dienes, Robert D. McIntosh, Pia Rotshtein, and Klaus Willmes. 2015. “Registered Reports: Realigning Incentives in Scientific Publishing.” Cortex 66: A1A2. https://doi.org/10.1016/j.cortex.2015.03.022.\n\n\nChambers, Christopher D., and Loukia Tzavella. 2021. “The Past, Present and Future of Registered Reports.” Nature Human Behaviour 6 (1): 29–42. https://doi.org/10.1038/s41562-021-01193-7.\n\n\nHardwicke, Tom E., and John P. A. Ioannidis. 2018. “Mapping the Universe of Registered Reports.” Nature Human Behaviour 2 (11): 793–96. https://doi.org/10.1038/s41562-018-0444-y.\n\n\nKarhulahti, Veli-Matti. 2022. “Registered Reports for Qualitative Research.” Nature Human Behaviour 6 (1): 45. https://doi.org/10.1038/s41562-021-01265-8.\n\n\nKarhulahti, Veli-Matti, Peter Branney, Miia Siutila, and Moin Syed. 2023. “A Primer for Choosing, Designing and Evaluating Registered Reports for Qualitative Methods.” Open Research Europe 3: 22. https://doi.org/10.12688/openreseurope.15532.2.\n\n\nLakens, Daniël, Cristian Mesquida, Sajedeh Rasti, and Massimiliano Ditroilo. 2024. “The Benefits of Preregistration and Registered Reports.” Evidence-Based Toxicology 2 (1). https://doi.org/10.1080/2833373x.2024.2376046.\n\n\nScheel, Anne M., Mitchell R. M. J. Schijen, and Daniël Lakens. 2021. “An Excess of Positive Results: Comparing the Standard Psychology Literature With Registered Reports.” Advances in Methods and Practices in Psychological Science 4 (2): 25152459211007467. https://doi.org/10.1177/25152459211007467.\n\n\nSoderberg, Courtney K., Timothy M. Errington, Sarah R. Schiavone, Julia Bottesini, Felix Singleton Thorn, Simine Vazire, Kevin M. Esterling, and Brian A. Nosek. 2021. “Initial Evidence of Research Quality of Registered Reports Compared with the Standard Publishing Model.” Nature Human Behaviour 5 (8): 990–97. https://doi.org/10.1038/s41562-021-01142-4."
   },
   {
     "objectID": "practice/03-versioning.html",
@@ -383,82 +474,5 @@
     "title": "03 - Git (practice)",
     "section": "Summary",
     "text": "Summary\nYou have:\n\nCreated a repository\nAdded and committed files\nModified and recommitted changes\nCreated and switched branches\nWorked independently on a branch"
-  },
-  {
-    "objectID": "slides/04-registered.html#research-process-cycle",
-    "href": "slides/04-registered.html#research-process-cycle",
-    "title": "04 - Preregistration and Registered Reports",
-    "section": "Research process cycle",
-    "text": "Research process cycle"
-  },
-  {
-    "objectID": "slides/04-registered.html#questionable-research-practices-qrps",
-    "href": "slides/04-registered.html#questionable-research-practices-qrps",
-    "title": "04 - Preregistration and Registered Reports",
-    "section": "Questionable research practices (QRPs)",
-    "text": "Questionable research practices (QRPs)"
-  },
-  {
-    "objectID": "slides/04-registered.html#traditional-publishing",
-    "href": "slides/04-registered.html#traditional-publishing",
-    "title": "04 - Preregistration and Registered Reports",
-    "section": "Traditional publishing",
-    "text": "Traditional publishing"
-  },
-  {
-    "objectID": "slides/04-registered.html#registered-reports",
-    "href": "slides/04-registered.html#registered-reports",
-    "title": "04 - Preregistration and Registered Reports",
-    "section": "Registered Reports",
-    "text": "Registered Reports"
-  },
-  {
-    "objectID": "slides/04-registered.html#proportion-of-negative-results",
-    "href": "slides/04-registered.html#proportion-of-negative-results",
-    "title": "04 - Preregistration and Registered Reports",
-    "section": "Proportion of negative results",
-    "text": "Proportion of negative results\n\nFrom Scheel et al. (2021)."
-  },
-  {
-    "objectID": "slides/04-registered.html#not-killing-the-vibe",
-    "href": "slides/04-registered.html#not-killing-the-vibe",
-    "title": "04 - Preregistration and Registered Reports",
-    "section": "Not killing the vibe",
-    "text": "Not killing the vibe\n\nFrom Soderberg et al. (2021)."
-  },
-  {
-    "objectID": "slides/04-registered.html#how-to-write-an-rr",
-    "href": "slides/04-registered.html#how-to-write-an-rr",
-    "title": "04 - Preregistration and Registered Reports",
-    "section": "How to write an RR",
-    "text": "How to write an RR\n\n\n\nStage 1 manuscript\n\n\n\nWrite introduction, background and methods.\nTarget specific and clear RQs (and RHs) and assess feasibility (within constraints).\nPilot studies or data simulations.\nPrepare a research compendium and ensure reproducibility.\n\n\n\n\n\n\n\n\nIn Principle Acceptance\n\n\nCarry out the study according to the Stage 1 registered protocol.\n\n\n\n\n\n\n\n\nStage 2 manuscript\n\n\n\nWrite results (of registered analyses + optional exploratory non-registered analyses), discussion and conclusion."
-  },
-  {
-    "objectID": "slides/04-registered.html#venues",
-    "href": "slides/04-registered.html#venues",
-    "title": "04 - Preregistration and Registered Reports",
-    "section": "Venues",
-    "text": "Venues\n\n\n\n\nRegistered Reports in Linguistics (RRLing): https://journals.ed.ac.uk/rrling/index\nJournal of Phonetics.\nLanguage and Speech.\nBilingualism: Language and Cognition.\nGlossa Psycholinguistics."
-  },
-  {
-    "objectID": "slides/04-registered.html#guidance-for-supervisors",
-    "href": "slides/04-registered.html#guidance-for-supervisors",
-    "title": "04 - Preregistration and Registered Reports",
-    "section": "Guidance for supervisors",
-    "text": "Guidance for supervisors\n\n\n\n\nPhD students especially can benefit from RRs.\nMaster students: Stage 1 manuscript as dissertation.\n\nStart very early (Semester 1).\nArrangements for post-IPA."
-  },
-  {
-    "objectID": "slides/04-registered.html#make-your-next-study-a-registered-report",
-    "href": "slides/04-registered.html#make-your-next-study-a-registered-report",
-    "title": "04 - Preregistration and Registered Reports",
-    "section": "Make your next study a Registered Report!",
-    "text": "Make your next study a Registered Report!"
-  },
-  {
-    "objectID": "slides/04-registered.html#references",
-    "href": "slides/04-registered.html#references",
-    "title": "04 - Preregistration and Registered Reports",
-    "section": "References",
-    "text": "References\n\n\n\n\nScheel, Anne M., Mitchell R. M. J. Schijen, and Daniël Lakens. 2021. “An Excess of Positive Results: Comparing the Standard Psychology Literature with Registered Reports.” Advances in Methods and Practices in Psychological Science 4 (2): 25152459211007467. https://doi.org/10.1177/25152459211007467.\n\n\nSoderberg, Courtney K., Timothy M. Errington, Sarah R. Schiavone, et al. 2021. “Initial Evidence of Research Quality of Registered Reports Compared with the Standard Publishing Model.” Nature Human Behaviour 5 (8): 990–97. https://doi.org/10.1038/s41562-021-01142-4."
   }
 ]

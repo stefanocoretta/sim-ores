@@ -17,7 +17,7 @@ bibliography: references.bib
 ## 
 
 ```{=html}
-<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/FUZIGY/questions/69e9f0322666a56a4dcd18c9" width="80%"></iframe>
+<iframe allowfullscreen frameborder="0" height="80%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/FUZIGY/questions/69e9f0322666a56a4dcd18c9" width="80%"></iframe>
 ```
 
 ## Questionable research practices (QRPs)
@@ -30,6 +30,18 @@ bibliography: references.bib
 Preregistration is the practice of publicly specifying a study's research questions/hypotheses, methods, and analysis plan in advance to control for analytic adequacy and increase transparency in research.
 :::
 
+. . .
+
+::: {.callout-tip appearance="simple"}
+-   You write a document with the plan.
+
+-   You upload it to a preregistration service (like OSF, aspredicted.org, ...)
+
+-   It is time-stamped.
+    You proceed with the study.
+    No formal peer-review required.
+:::
+
 ## Traditional publishing
 
 ![](../img/rr-timeline-0.png){fig-align="center"}
@@ -38,26 +50,18 @@ Preregistration is the practice of publicly specifying a study's research questi
 
 ![](../img/rr-timeline.png){fig-align="center"}
 
-## Proportion of negative results
-
-![From @scheel2021.](../img/scheel2021a-fig.png){fig-align="center"}
-
-## Not killing the vibe
-
-![From @soderberg2021.](../img/soderberg2021-img.png){fig-align="center"}
-
 ## How to write an RR
 
 ::: callout-tip
 ## Stage 1 manuscript
 
-- Write **introduction, background and methods**.
+-   Write **introduction, background and methods**.
 
-- Target **specific and clear** RQs (and RHs) and assess **feasibility** (within constraints).
+-   Target **specific and clear** RQs (and RHs) and assess **feasibility** (within constraints).
 
-- **Pilot** studies or data **simulations**.
+-   **Pilot** studies or data **simulations**.
 
-- Prepare a **research compendium** and ensure **reproducibility**.
+-   Prepare a **research compendium** and ensure **reproducibility**.
 :::
 
 . . .
@@ -73,33 +77,45 @@ Carry out the study according to the Stage 1 registered protocol.
 ::: callout-tip
 ## Stage 2 manuscript
 
-- Write **results** (of registered analyses + optional exploratory non-registered analyses), **discussion** and **conclusion**.
+-   Write **results** (of registered analyses + optional exploratory non-registered analyses), **discussion** and **conclusion**.
+:::
+
+## Resources
+
+::: {.callout-tip appearance="simple"}
+-   See COS resources: <https://www.cos.io/initiatives/registered-reports>
+
+-   @chambers2015, @chambers2021, @hardwicke2018, @karhulahti2022, @karhulahti2023, @lakens2024.
+:::
+
+## Proportion of negative results
+
+![From @scheel2021.](../img/scheel2021a-fig.png){fig-align="center"}
+
+## Not killing the vibe
+
+![From @soderberg2021.](../img/soderberg2021-img.png){fig-align="center"}
+
+## Guidance for PhD students
+
+::: {.callout-note appearance="simple"}
+-   **PhD students can benefit from RRs.**
+
+-   First year is critical: conceptualisation and writing of RR Stage 1.
+
+-   Time spent on preparing Stage 1 seems longer but time we should spend anyway.
+    Overall time (from inception to publication) similar.
+
+-   Stage 2 review is very quick.
+    Most issues with traditional review are about things that should have been done, but it's too late.
 :::
 
 ## Venues
 
 ::: {.callout-note appearance="simple"}
-- Registered Reports in Linguistics (RRLing): <https://journals.ed.ac.uk/rrling/index>
+-   Subject specific journals that offer Registered Reports.
 
-- Journal of Phonetics.
-
-- Language and Speech.
-
-- Bilingualism: Language and Cognition.
-
-- Glossa Psycholinguistics.
-:::
-
-## Guidance for supervisors
-
-::: {.callout-note appearance="simple"}
-- **PhD students** especially can benefit from RRs.
-
-- **Master students**: Stage 1 manuscript as dissertation.
-
-  - Start very early (Semester 1).
-
-  - Arrangements for post-IPA.
+-   PCI RR: <https://rr.peercommunityin.org>.
 :::
 
 ## Make your next study a Registered Report! {.center background-color="var(--inverse)"}
