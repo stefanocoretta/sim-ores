@@ -14,14 +14,14 @@ bibliography: references.bib
 
 <br><br><br>
 
-::: {style="text-align: right;"}
+::: {.callout-tip appearance="minimal" style="text-align: right; font-size: 56px;"}
 "But scientific power is like inherited wealth: attained without discipline. You read what others have done, and you take the next step. You can do it very young. You can make progress very fast. There is no discipline lasting many decades. There is no mastery: old scientists are ignored. There is no humility before nature."
 :::
 
-## Ian Malcom, Jurassic Park
+## 
 
-::: {layout-ncol="2"}
-![](https://upload.wikimedia.org/wikipedia/en/6/60/Ian_Malcolm_%28Jeff_Goldblum%29.jpg){fig-align="center" width="300"}
+::: {layout-ncol="2" style="text-align:center;"}
+![Ian Malcom, chaotician](https://upload.wikimedia.org/wikipedia/en/6/60/Ian_Malcolm_%28Jeff_Goldblum%29.jpg){fig-align="center" width="300"}
 
 ![](../img/jurassic-park.jpg){fig-align="center" width="300"}
 :::
@@ -34,7 +34,7 @@ bibliography: references.bib
 
 [Photo by <a href="https://unsplash.com/@faithgiant?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alex Shute</a> on <a href="https://unsplash.com/photos/a-wooden-block-that-says-trust-surrounded-by-blue-flowers-bGOemOApXo4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]{style="font-size: 8px;"}
 
-## The research crisis
+## 
 
 :::::::: columns
 :::: {.column width="40%"}
@@ -46,19 +46,23 @@ bibliography: references.bib
 ::::
 
 ::::: {.column width="60%"}
-:::: {.callout-note appearance="simple"}
-::: incremental
--   @meehl1990: **uninterpretability** of conceptual models.
 
--   @pashler2012: "a crisis of **confidence**?".
-
--   @scheel2020: we are not even wrong.
-
--   @yarkoni2022: lack of meaningful **connection** between verbal generalisations and evidence.
-
--   Part of the **polycrisis** [@morin1999; @tooze2023].
+::: {.r-fit-text}
+"A crisis of **confidence**?" [@pashler2012]{.small-ref}
 :::
-::::
+
+<br><br>
+
+::: {.fragment .r-fit-text style="text-align: center;"}
+**Research crises**
+:::
+
+<br>
+
+::: {.fragment .r-fit-text}
+Part of the **polycrisis** [@morin1999; @tooze2023]{.small-ref}.
+:::
+
 :::::
 ::::::::
 
@@ -70,14 +74,14 @@ bibliography: references.bib
 
 ![From The Turing Way.](/img/reproducible-matrix-d15700202901e2e2e85fd2dcc71a158b-2.jpg){fig-align="center"}
 
-## Research reliability
+## {background-image="../img/dusan-veverkolog-mX2mdxhc0UM-unsplash.jpg" .center}
 
-::: callout-note
-## Research soundness
-
--   Research reliability implies that research is sound! [@yarkoni2022; @devezer2021].
--   Transparency is key.
+::: {.r-fit-text style="color: white;"}
+**SOUND**
 :::
+
+[Photo by <a href="https://unsplash.com/@veverkolog?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dušan veverkolog</a> on <a href="https://unsplash.com/photos/gray-stacked-stones-photo-mX2mdxhc0UM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]{style="font-size: 8px;"}
+
 
 ## Reproducibility
 
@@ -108,7 +112,7 @@ bibliography: references.bib
 
 ![From @opensciencecollaboration2015](/img/opensciencecollaboration2015-fig1.png){fig-align="center"}
 
-## Rebustness
+## Robustness
 
 ::: {.callout-note appearance="simple"}
 -   @brodeur2026: economy and political science; effect sizes that are similar (between 50% to 200% of the original effect size) under reanalysis represent 69% of the sample.
@@ -119,13 +123,15 @@ bibliography: references.bib
 ## Generalisability
 
 ::: {.callout-note appearance="simple"}
--   @yarkoni2022: verbal, non-formalised accounts of phenomena make things difficult.
+::: incremental
+-   **Uninterpretability** of conceptual models [@meehl1990]{.small-ref}
 
-    -   Do something else (also see @scheel2020).
+-   "We are not even wrong" [@scheel2022]{.small-ref}
 
-    -   Descriptive and qualitative research.
+-   Lack of meaningful **connection** between verbal generalisations and evidence. [@yarkoni2022]{.small-ref}
 
--   @devezer2019: replicable results do not imply correct conditional inference and non-replicable results do not imply incorrect conditional inference.
+-   Replicable results do not imply correct conditional inference and non-replicable results do not imply incorrect conditional inference. [@devezer2019]{.small-ref}
+:::
 :::
 
 ## Open Research
