@@ -18,6 +18,8 @@ website:
             text: "02 - Research Compendia"
           - href: "slides/03-versioning.qmd"
             text: "03 - Version control"
+          - href: "slides/04-registered.qmd"
+            text: "03 - Registrations"
       - text: Practice
         menu: 
           - href: "practice/02-rescomp.qmd"
