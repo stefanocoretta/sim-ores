@@ -88,7 +88,7 @@
     "href": "slides/01-overview.html#built-in-control",
     "title": "01 - Overview",
     "section": "Built-in control",
-    "text": "Built-in control\n\n\n\n\n\n“But scientific power is like inherited wealth: attained without discipline. You read what others have done, and you take the next step. You can do it very young. You can make progress very fast. There is no discipline lasting many decades. There is no mastery: old scientists are ignored. There is no humility before nature.”"
+    "text": "Built-in control\n\n\n\n\n\n\n\n“But scientific power is like inherited wealth: attained without discipline. You read what others have done, and you take the next step. You can do it very young. You can make progress very fast. There is no discipline lasting many decades. There is no mastery: old scientists are ignored. There is no humility before nature.”"
   },
   {
     "objectID": "slides/01-overview.html#section-1",
@@ -123,14 +123,14 @@
     "href": "slides/01-overview.html#research-reliability",
     "title": "01 - Overview",
     "section": "Research reliability",
-    "text": "Research reliability\n\nFrom The Turing Way."
+    "text": "Research reliability\n\n\n\nFrom The Turing Way."
   },
   {
     "objectID": "slides/01-overview.html#research-reliability-1",
     "href": "slides/01-overview.html#research-reliability-1",
     "title": "01 - Overview",
     "section": "Research reliability",
-    "text": "Research reliability\n\nFrom The Turing Way."
+    "text": "Research reliability\n\n\n\nFrom The Turing Way."
   },
   {
     "objectID": "slides/01-overview.html#section-5",
@@ -151,56 +151,56 @@
     "href": "slides/01-overview.html#reproducibility-shareability",
     "title": "01 - Overview",
     "section": "Reproducibility: shareability",
-    "text": "Reproducibility: shareability\n\nFrom Miske et al. (2026)"
+    "text": "Reproducibility: shareability\n\n\n\nFrom Miske et al. (2026)"
   },
   {
     "objectID": "slides/01-overview.html#reproducibility-1",
     "href": "slides/01-overview.html#reproducibility-1",
     "title": "01 - Overview",
     "section": "Reproducibility",
-    "text": "Reproducibility\n\nFrom Miske et al. (2026)"
+    "text": "Reproducibility\n\n\n\nFrom Miske et al. (2026)"
   },
   {
     "objectID": "slides/01-overview.html#reproducibility-qualitative-research",
     "href": "slides/01-overview.html#reproducibility-qualitative-research",
     "title": "01 - Overview",
     "section": "Reproducibility: qualitative research",
-    "text": "Reproducibility: qualitative research\n\n\n\n\nDuBois (2024): 96% surveyed qualitative researchers have never shared data in a repository.\nLamb et al. (2024): claiming that data collector is the only legitimate knowledge gatekeeper is at odds with epistemic plurality.\nHeaton (2008): shows successful reuse of qualitative data. Data are not epistemically exhausted by first analysis."
+    "text": "Reproducibility: qualitative research\n\n\n\n\n\n\n\nDuBois (2024): 96% surveyed qualitative researchers have never shared data in a repository.\nLamb et al. (2024): claiming that data collector is the only legitimate knowledge gatekeeper is at odds with epistemic plurality.\nHeaton (2008): shows successful reuse of qualitative data. Data are not epistemically exhausted by first analysis."
   },
   {
     "objectID": "slides/01-overview.html#replicability",
     "href": "slides/01-overview.html#replicability",
     "title": "01 - Overview",
     "section": "Replicability",
-    "text": "Replicability\n\nFrom Open Science Collaboration (2015)"
+    "text": "Replicability\n\n\n\nFrom Open Science Collaboration (2015)"
   },
   {
     "objectID": "slides/01-overview.html#robustness",
     "href": "slides/01-overview.html#robustness",
     "title": "01 - Overview",
     "section": "Robustness",
-    "text": "Robustness\n\n\n\n\nBrodeur et al. (2026): economy and political science; effect sizes that are similar (between 50% to 200% of the original effect size) under reanalysis represent 69% of the sample.\nAuspurg (2025): not invariance across all methods, but insensitivity within a justified class of models."
+    "text": "Robustness\n\n\n\n\n\n\n\nBrodeur et al. (2026): economy and political science; effect sizes that are similar (between 50% to 200% of the original effect size) under reanalysis represent 69% of the sample.\nAuspurg (2025): not invariance across all methods, but insensitivity within a justified class of models."
   },
   {
     "objectID": "slides/01-overview.html#generalisability",
     "href": "slides/01-overview.html#generalisability",
     "title": "01 - Overview",
     "section": "Generalisability",
-    "text": "Generalisability\n\n\n\n\nUninterpretability of conceptual models Meehl (1990)\n“We are not even wrong” Scheel (2022)\nLack of meaningful connection between verbal generalisations and evidence. Yarkoni (2022)\nReplicable results do not imply correct conditional inference and non-replicable results do not imply incorrect conditional inference. Devezer et al. (2019)"
+    "text": "Generalisability\n\n\n\n\n\n\n\n\nUninterpretability of conceptual models Meehl (1990)\n“We are not even wrong” Scheel (2022)\nLack of meaningful connection between verbal generalisations and evidence. Yarkoni (2022)\nReplicable results do not imply correct conditional inference and non-replicable results do not imply incorrect conditional inference. Devezer et al. (2019)"
   },
   {
     "objectID": "slides/01-overview.html#open-research",
     "href": "slides/01-overview.html#open-research",
     "title": "01 - Overview",
     "section": "Open Research",
-    "text": "Open Research\n\n\n\nWhat is it?\n\n\nOpen Research is a movement that stresses the importance of a more honest and transparent research by promoting a series of research principles and by warning about common, although not necessarily intentional, questionable practices and misconceptions (Munafò et al. 2017; Crüwell et al. 2019).\n\n\n\n\n\n\n\nHow to make your research open?\n\n\n\nCurate and share Research compendia.\nUse version control.\nWrite Registered Reports.\nReflect on your researcher’s orientation.\nGuidelines for PhD students/supervisors: Kathawalla et al. (2021)."
+    "text": "Open Research\n\n\n\n\n\n\nNoteWhat is it?\n\n\n\nOpen Research is a movement that stresses the importance of a more honest and transparent research by promoting a series of research principles and by warning about common, although not necessarily intentional, questionable practices and misconceptions (Munafò et al. 2017; Crüwell et al. 2019).\n\n\n. . .\n\n\n\n\n\n\nImportantHow to make your research open?\n\n\n\n\nCurate and share Research compendia.\nUse version control.\nWrite Registered Reports.\nReflect on your researcher’s orientation (Liljedahl et al. 2025).\nGuidelines for PhD students/supervisors: Kathawalla et al. (2021)."
   },
   {
     "objectID": "slides/01-overview.html#references",
     "href": "slides/01-overview.html#references",
     "title": "01 - Overview",
     "section": "References",
-    "text": "References\n\n\n\n\nAuspurg, Katrin. 2025. “Robustness Is Better Assessed with a Few Thoughtful Models Than with Billions of Regressions.” Proceedings of the National Academy of Sciences 122 (43): e2521917122. https://doi.org/10.1073/pnas.2521917122.\n\n\nBrodeur, Abel, Derek Mikola, Nikolai Cook, et al. 2026. “Reproducibility and Robustness of Economics and Political Science Research.” Nature 652 (8108): 151–56. https://doi.org/10.1038/s41586-026-10251-x.\n\n\nCrüwell, Sophia, Johnny van Doorn, Alexander Etz, et al. 2019. “Seven Easy Steps to Open Science: An Annotated Reading List.” Zeitschrift Für Psychologie 227 (4): 237248. https://doi.org/10.1027/2151-2604/a000387.\n\n\nDevezer, Berna, Luis G Nardin, Bert Baumgaertner, and Erkan Ozge Buzbas. 2019. “Scientific Discovery in a Model-Centric Framework: Reproducibility, Innovation, and Epistemic Diversity.” PloS One 14 (5): e0216125. https://doi.org/10.1371/journal.pone.0216125.\n\n\nDuBois, James M. 2024. Sharing Qualitative Research Data: Survey of Qualitative Researchers, United States, 2019: Version 1. ICPSR - Interuniversity Consortium for Political and Social Research. https://doi.org/10.3886/ICPSR38957.V1.\n\n\nHeaton, Janet. 2008. “Secondary Analysis of Qualitative Data: An Overview.” Historical Social Research 33 (3). https://www.jstor.org/stable/20762299.\n\n\nKathawalla, Ummul-Kiram, Priya Silverstein, and Moin Syed. 2021. “Easing into Open Science: A Guide for Graduate Students and Their Advisors.” Collabra: Psychology 7 (1): 18684. https://doi.org/10.1525/collabra.18684.\n\n\nLamb, Danielle, Amy Russell, Nicola Morant, and Fiona Stevenson. 2024. “The Challenges of Open Data Sharing for Qualitative Researchers.” Journal of Health Psychology 29 (7): 659–64. https://doi.org/10.1177/13591053241237620.\n\n\nMeehl, Paul E. 1990. “Why Summaries of Research on Psychological Theories Are Often Uninterpretable.” Psychological Reports 66 (1): 195–244. https://doi.org/10.2466/pr0.1990.66.1.195.\n\n\nMiske, Olivia, Anna Lou Abatayo, Mason Daley, et al. 2026. “Investigating the Reproducibility of the Social and Behavioural Sciences.” Nature 652 (8108): 126–34. https://doi.org/10.1038/s41586-026-10203-5.\n\n\nMorin, Edgar, and Anne Brigitte Kern. 1999. Homeland earth: a manifesto for the new millenium. Advances in systems theory, complexity, and the human sciences. Hampton Press.\n\n\nMunafò, Marcus R., Brian A. Nosek, Dorothy V. M. Bishop, et al. 2017. “A Manifesto for Reproducible Science.” Nature Human Behaviour 1 (1): 21. https://doi.org/10.1038/s41562-016-0021.\n\n\nOpen Science Collaboration. 2015. “Estimating the Reproducibility of Psychological Science.” Science 349 (6251): aac4716. https://doi.org/10.1126/science.aac4716.\n\n\nPashler, Harold, and Eric-Jan Wagenmakers. 2012. “Editors’ Introduction to the Special Section on Replicability in Psychological Science: A Crisis of Confidence?” Perspectives on Psychological Science 7 (6): 528530. https://doi.org/10.1177/1745691612465253.\n\n\nScheel, Anne M. 2022. “Why Most Psychological Research Findings Are Not Even Wrong.” Infant and Child Development 31 (1): e2295. https://doi.org/10.1002/icd.2295.\n\n\nTooze, Adam. 2023. “Welcome to the World of the Polycrisis.” Financial Times 28 (10). https://www.ft.com/content/498398e7-11b1-494b-9cd3-6d669dc3de33.\n\n\nYarkoni, Tal. 2022. “The Generalizability Crisis.” Behavioral and Brain Sciences 45. https://doi.org/10.1017/s0140525x20001685."
+    "text": "References\n\n\n\n\nAuspurg, Katrin. 2025. “Robustness Is Better Assessed with a Few Thoughtful Models Than with Billions of Regressions.” Proceedings of the National Academy of Sciences 122 (43): e2521917122. https://doi.org/10.1073/pnas.2521917122.\n\n\nBrodeur, Abel, Derek Mikola, Nikolai Cook, et al. 2026. “Reproducibility and Robustness of Economics and Political Science Research.” Nature 652 (8108): 151–56. https://doi.org/10.1038/s41586-026-10251-x.\n\n\nCastanelli, Damian. 2024. “Developing Your Philosophical Stance as a PhD Student: A Case Study.” Focus on Health Professional Education: A Multi-Professional Journal 25 (2): 130–43. https://doi.org/10.11157/fohpe.v25i2.831.\n\n\nCrüwell, Sophia, Johnny van Doorn, Alexander Etz, et al. 2019. “Seven Easy Steps to Open Science: An Annotated Reading List.” Zeitschrift Für Psychologie 227 (4): 237248. https://doi.org/10.1027/2151-2604/a000387.\n\n\nDarwin Holmes, Andrew Gary. 2020. “Researcher Positionality: A Consideration of Its Influence and Place in Qualitative Research. A New Researcher Guide.” Shanlax International Journal of Education 8 (4): 110. https://doi.org/10.34293/education.v8i4.3232.\n\n\nDevezer, Berna, Luis G Nardin, Bert Baumgaertner, and Erkan Ozge Buzbas. 2019. “Scientific Discovery in a Model-Centric Framework: Reproducibility, Innovation, and Epistemic Diversity.” PloS One 14 (5): e0216125. https://doi.org/10.1371/journal.pone.0216125.\n\n\nDuBois, James M. 2024. Sharing Qualitative Research Data: Survey of Qualitative Researchers, United States, 2019: Version 1. ICPSR - Interuniversity Consortium for Political and Social Research. https://doi.org/10.3886/ICPSR38957.V1.\n\n\nGoundar, Prashneel Ravisan. 2025. “Researcher Positionality: Ways to Include It in a Qualitative Research Design.” International Journal of Qualitative Methods 24 (March): 16094069251321251. https://doi.org/10.1177/16094069251321251.\n\n\nHeaton, Janet. 2008. “Secondary Analysis of Qualitative Data: An Overview.” Historical Social Research 33 (3). https://www.jstor.org/stable/20762299.\n\n\nJafar, Anisa J. N. 2018. “What Is Positionality and Should It Be Expressed in Quantitative Studies?” Emergency Medicine Journal, ahead of print. https://doi.org/10.1136/emermed-2017-207158.\n\n\nKathawalla, Ummul-Kiram, Priya Silverstein, and Moin Syed. 2021. “Easing into Open Science: A Guide for Graduate Students and Their Advisors.” Collabra: Psychology 7 (1): 18684. https://doi.org/10.1525/collabra.18684.\n\n\nLamb, Danielle, Amy Russell, Nicola Morant, and Fiona Stevenson. 2024. “The Challenges of Open Data Sharing for Qualitative Researchers.” Journal of Health Psychology 29 (7): 659–64. https://doi.org/10.1177/13591053241237620.\n\n\nLazard, Lisa, and Jean McAvoy. 2020. “Doing Reflexivity in Psychological Research: What’s the Point? What’s the Practice?” Qualitative Research in Psychology 17 (2): 159–77. https://doi.org/10.1080/14780887.2017.1400144.\n\n\nLiljedahl, Matilda, Per J. Palmgren, and Cormac McGrath. 2025. “Twelve Tips on Finding a Research Orientation: A Practical Guide for the Novice Researcher.” Medical Teacher 47 (8): 1269–73. https://doi.org/10.1080/0142159X.2025.2473607.\n\n\nMeehl, Paul E. 1990. “Why Summaries of Research on Psychological Theories Are Often Uninterpretable.” Psychological Reports 66 (1): 195–244. https://doi.org/10.2466/pr0.1990.66.1.195.\n\n\nMiske, Olivia, Anna Lou Abatayo, Mason Daley, et al. 2026. “Investigating the Reproducibility of the Social and Behavioural Sciences.” Nature 652 (8108): 126–34. https://doi.org/10.1038/s41586-026-10203-5.\n\n\nMorin, Edgar, and Anne Brigitte Kern. 1999. Homeland earth: a manifesto for the new millenium. Advances in systems theory, complexity, and the human sciences. Hampton Press.\n\n\nMunafò, Marcus R., Brian A. Nosek, Dorothy V. M. Bishop, et al. 2017. “A Manifesto for Reproducible Science.” Nature Human Behaviour 1 (1): 21. https://doi.org/10.1038/s41562-016-0021.\n\n\nOkasha, Samir. 2016. Philosophy of Science: Very Short Introduction. Oxford: Oxford University Press. https://doi.org/10.1093/actrade/9780192802835.001.0001.\n\n\nOpen Science Collaboration. 2015. “Estimating the Reproducibility of Psychological Science.” Science 349 (6251): aac4716. https://doi.org/10.1126/science.aac4716.\n\n\nPashler, Harold, and Eric-Jan Wagenmakers. 2012. “Editors’ Introduction to the Special Section on Replicability in Psychological Science: A Crisis of Confidence?” Perspectives on Psychological Science 7 (6): 528530. https://doi.org/10.1177/1745691612465253.\n\n\nRosenberg, Alexander, and Lee Mclntyre. 2020. Philosophy of science: a contemporary introduction. Fourth edition. Routledge contemporary introductions to philosophy. Routledge.\n\n\nScheel, Anne M. 2022. “Why Most Psychological Research Findings Are Not Even Wrong.” Infant and Child Development 31 (1): e2295. https://doi.org/10.1002/icd.2295.\n\n\nTomlinson, Yalda Natasha. 2023. The Importance of Engaging with Ontology and Epistemology as an ECR. https://www.bps.org.uk/psychologist/importance-engaging-ontology-and-epistemology-ecr.\n\n\nTooze, Adam. 2023. “Welcome to the World of the Polycrisis.” Financial Times 28 (10). https://www.ft.com/content/498398e7-11b1-494b-9cd3-6d669dc3de33.\n\n\nYarkoni, Tal. 2022. “The Generalizability Crisis.” Behavioral and Brain Sciences 45. https://doi.org/10.1017/s0140525x20001685."
   },
   {
     "objectID": "index.html",
@@ -242,7 +242,7 @@
     "href": "info.html#pre-requisites",
     "title": "Information",
     "section": "Pre-requisites",
-    "text": "Pre-requisites\nBefore the workshop, you must read and practice the following tutorial:\n\nLearning the basics of using the Command Line: https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line\n\nYou will need the skills covered in that tutorial to complete the session on version control.\nI also recommend you skim this very short paper:\n\nCrüwell, Sophia, Johnny van Doorn, Alexander Etz, Matthew C. Makel, Hannah Moshontz, Jesse Niebaum, Amy Orben, Sam Parsons, and Michael Schulte-Mecklenbeck. 2019. “Seven Easy Steps to Open Science: An Annotated Reading List.” Zeitschrift Für Psychologie 227 (4): 237248.  https://doi.org/10.1027/2151-2604/a000387"
+    "text": "Pre-requisites\n\nCommand line\nBefore the workshop, you must read and practice the following tutorial:\n\nLearning the basics of using the Command Line: https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line\n\nYou will need the skills covered in that tutorial to complete the session on version control.\n\n\nGit\nYou must install git on your laptop: https://git-scm.com/.\n\n\nRecommended reading\nI also recommend you skim this very short paper:\n\nCrüwell, Sophia, Johnny van Doorn, Alexander Etz, Matthew C. Makel, Hannah Moshontz, Jesse Niebaum, Amy Orben, Sam Parsons, and Michael Schulte-Mecklenbeck. 2019. “Seven Easy Steps to Open Science: An Annotated Reading List.” Zeitschrift Für Psychologie 227 (4): 237248.  https://doi.org/10.1027/2151-2604/a000387"
   },
   {
     "objectID": "slides/03-versioning.html#why-should-you-learn-version-control",
@@ -509,5 +509,19 @@
     "title": "03 - Git (practice)",
     "section": "Summary",
     "text": "Summary\nYou have:\n\nCreated a repository\nAdded and committed files\nModified and recommitted changes\nCreated and switched branches\nWorked independently on a branch"
+  },
+  {
+    "objectID": "slides/01-overview.html#researchers-orientation",
+    "href": "slides/01-overview.html#researchers-orientation",
+    "title": "01 - Overview",
+    "section": "Researcher’s orientation",
+    "text": "Researcher’s orientation\n\nReflexive understanding of one’s own individual aspects and how they shape one’s own approach to and practice of research.\nNot limited to: identity, lived experiences, social positionality, philosophical stance, personal beliefs, methodological theory, and more."
+  },
+  {
+    "objectID": "slides/01-overview.html#researchers-orientation-resources",
+    "href": "slides/01-overview.html#researchers-orientation-resources",
+    "title": "01 - Overview",
+    "section": "Researcher’s orientation: resources",
+    "text": "Researcher’s orientation: resources\n\n\n\n\n\n\n\nPositionality\n\nDarwin Holmes (2020), Goundar (2025) for qualitative research.\nJafar (2018), Lazard and McAvoy (2020) for quantitative research.\n\nPhilosophical stance\n\nOkasha (2016), Rosenberg and Mclntyre (2020)\nTomlinson (2023), Castanelli (2024) for PhD/ECRs."
   }
 ]

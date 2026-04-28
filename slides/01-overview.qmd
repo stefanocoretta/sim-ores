@@ -36,7 +36,7 @@ bibliography: references.bib
 
 ## 
 
-:::::::: columns
+::::::::: columns
 :::: {.column width="40%"}
 ![](../img/nik-0urrnqA66Lo-unsplash-2.jpg){width="350" fig-align="right"}
 
@@ -45,10 +45,9 @@ bibliography: references.bib
 :::
 ::::
 
-::::: {.column width="60%"}
-
-::: {.r-fit-text}
-"A crisis of **confidence**?" [@pashler2012]{.small-ref}
+:::::: {.column width="60%"}
+::: r-fit-text
+"A crisis of **confidence**?" @pashler2012
 :::
 
 <br><br>
@@ -60,11 +59,10 @@ bibliography: references.bib
 <br>
 
 ::: {.fragment .r-fit-text}
-Part of the **polycrisis** [@morin1999; @tooze2023]{.small-ref}.
+Part of the **polycrisis** @morin1999[; @tooze2023]{.small-ref}.
 :::
-
-:::::
-::::::::
+::::::
+:::::::::
 
 ## Research reliability
 
@@ -74,14 +72,13 @@ Part of the **polycrisis** [@morin1999; @tooze2023]{.small-ref}.
 
 ![From The Turing Way.](/img/reproducible-matrix-d15700202901e2e2e85fd2dcc71a158b-2.jpg){fig-align="center"}
 
-## {background-image="../img/dusan-veverkolog-mX2mdxhc0UM-unsplash.jpg" .center}
+##  {.center background-image="../img/dusan-veverkolog-mX2mdxhc0UM-unsplash.jpg"}
 
 ::: {.r-fit-text style="color: white;"}
 **SOUND**
 :::
 
 [Photo by <a href="https://unsplash.com/@veverkolog?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dušan veverkolog</a> on <a href="https://unsplash.com/photos/gray-stacked-stones-photo-mX2mdxhc0UM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]{style="font-size: 8px;"}
-
 
 ## Reproducibility
 
@@ -100,12 +97,12 @@ Part of the **polycrisis** [@morin1999; @tooze2023]{.small-ref}.
 ## Reproducibility: qualitative research
 
 ::: {.callout-note appearance="simple"}
--   @dubois2024: 96% surveyed qualitative researchers have never shared data in a repository.
+- @dubois2024: 96% surveyed qualitative researchers have never shared data in a repository.
 
--   @lamb2024: claiming that data collector is the only legitimate knowledge gatekeeper is at odds with epistemic plurality.
+- @lamb2024: claiming that data collector is the only legitimate knowledge gatekeeper is at odds with epistemic plurality.
 
--   @heaton2008: shows successful reuse of qualitative data.
-    Data are not epistemically exhausted by first analysis.
+- @heaton2008: shows successful reuse of qualitative data.
+  Data are not epistemically exhausted by first analysis.
 :::
 
 ## Replicability
@@ -115,23 +112,47 @@ Part of the **polycrisis** [@morin1999; @tooze2023]{.small-ref}.
 ## Robustness
 
 ::: {.callout-note appearance="simple"}
--   @brodeur2026: economy and political science; effect sizes that are similar (between 50% to 200% of the original effect size) under reanalysis represent 69% of the sample.
+- @brodeur2026: economy and political science; effect sizes that are similar (between 50% to 200% of the original effect size) under reanalysis represent 69% of the sample.
 
--   @auspurg2025: not invariance across all methods, but insensitivity within a justified class of models.
+- @auspurg2025: not invariance across all methods, but insensitivity within a justified class of models.
 :::
 
 ## Generalisability
 
-::: {.callout-note appearance="simple"}
+:::: {.callout-note appearance="simple"}
 ::: incremental
--   **Uninterpretability** of conceptual models [@meehl1990]{.small-ref}
+- **Uninterpretability** of conceptual models @meehl1990
 
--   "We are not even wrong" [@scheel2022]{.small-ref}
+- "We are not even wrong" @scheel2022
 
--   Lack of meaningful **connection** between verbal generalisations and evidence. [@yarkoni2022]{.small-ref}
+- Lack of meaningful **connection** between verbal generalisations and evidence.
+  @yarkoni2022
 
--   Replicable results do not imply correct conditional inference and non-replicable results do not imply incorrect conditional inference. [@devezer2019]{.small-ref}
+- Replicable results do not imply correct conditional inference and non-replicable results do not imply incorrect conditional inference.
+  @devezer2019
 :::
+::::
+
+## Researcher's orientation
+
+- **Reflexive** understanding of one's own individual aspects and how they shape one's own approach to and practice of research.
+
+- Not limited to: identity, lived experiences, social positionality, philosophical stance, personal beliefs, methodological theory, and more.
+
+## Researcher's orientation: resources
+
+::: {.callout-note appearance="simple"}
+- Positionality
+
+  - @darwinholmes2020, @goundar2025 for qualitative research.
+
+  - @jafar2018, @lazard2020 for quantitative research.
+
+- Philosophical stance
+
+  - @okasha2016, @rosenberg2020
+
+  - @tomlinson2023, @castanelli2024 for PhD/ECRs.
 :::
 
 ## Open Research
@@ -147,15 +168,15 @@ Open Research is a movement that stresses the importance of a **more honest and 
 ::: callout-important
 ## How to make your research open?
 
--   Curate and share **Research compendia**.
+- Curate and share **Research compendia**.
 
--   Use version control.
+- Use **version control**.
 
--   Write **Registered Reports**.
+- Write **Registered Reports**.
 
--   Reflect on your **researcher's orientation**.
+- Reflect on your **researcher's orientation** [@liljedahl2025].
 
--   Guidelines for PhD students/supervisors: @kathawalla2021.
+- Guidelines for PhD students/supervisors: @kathawalla2021.
 :::
 
 ## References

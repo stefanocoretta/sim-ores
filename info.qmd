@@ -44,11 +44,19 @@ This will be on a first ask first served basis.
 
 ## Pre-requisites
 
+### Command line
+
 Before the workshop, you must read and practice the following tutorial:
 
 > Learning the basics of using the Command Line: <https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line>
 
 You will need the skills covered in that tutorial to complete the session on version control.
+
+### Git
+
+You must install git on your laptop: <https://git-scm.com/>.
+
+### Recommended reading
 
 I also recommend you skim this very short paper:
 
