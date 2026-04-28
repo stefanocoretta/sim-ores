@@ -47,7 +47,7 @@ bibliography: references.bib
 
 :::::: {.column width="60%"}
 ::: r-fit-text
-"A crisis of **confidence**?" @pashler2012
+"A crisis of **confidence**?" [@pashler2012]{.small-ref}
 :::
 
 <br><br>
@@ -59,7 +59,7 @@ bibliography: references.bib
 <br>
 
 ::: {.fragment .r-fit-text}
-Part of the **polycrisis** @morin1999[; @tooze2023]{.small-ref}.
+Part of the **polycrisis** [@morin1999, @tooze2023]{.small-ref}
 :::
 ::::::
 :::::::::
@@ -112,7 +112,7 @@ Part of the **polycrisis** @morin1999[; @tooze2023]{.small-ref}.
 ## Robustness
 
 ::: {.callout-note appearance="simple"}
-- @brodeur2026: economy and political science; effect sizes that are similar (between 50% to 200% of the original effect size) under reanalysis represent 69% of the sample.
+- @brodeur2026: economy and political science; effect sizes that are between 50% to 200% of the original effect size under reanalysis represent 69% of the sample.
 
 - @auspurg2025: not invariance across all methods, but insensitivity within a justified class of models.
 :::
@@ -121,38 +121,58 @@ Part of the **polycrisis** @morin1999[; @tooze2023]{.small-ref}.
 
 :::: {.callout-note appearance="simple"}
 ::: incremental
-- **Uninterpretability** of conceptual models @meehl1990
+- **Uninterpretability** of conceptual models [@meehl1990]{.small-ref}
 
-- "We are not even wrong" @scheel2022
+- "We are not even wrong" [@scheel2022]{.small-ref}
 
 - Lack of meaningful **connection** between verbal generalisations and evidence.
-  @yarkoni2022
+  [@yarkoni2022]{.small-ref}
 
 - Replicable results do not imply correct conditional inference and non-replicable results do not imply incorrect conditional inference.
-  @devezer2019
+  [@devezer2019]{.small-ref}
 :::
 ::::
 
 ## Researcher's orientation
 
-- **Reflexive** understanding of one's own individual aspects and how they shape one's own approach to and practice of research.
+::::::::: columns
+:::: {.column width="60%"}
 
-- Not limited to: identity, lived experiences, social positionality, philosophical stance, personal beliefs, methodological theory, and more.
+::: {.callout-note appearance="simple"}
+**Reflexive** understanding of one's own individual aspects and how they shape one's own approach to and practice of research.
+
+<br>
+
+Not limited to: identity, lived experiences, social positionality, philosophical stance, personal beliefs, methodological theory, and more.
+:::
+
+::::
+
+:::: {.column width="40%"}
+
+![](../img/jovis-aloor-4YxXWYW7JqQ-unsplash.jpg){fig-align="center" height="400px"}
+
+[Photo by <a href="https://unsplash.com/@jovisjoseph?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jovis Aloor</a> on <a href="https://unsplash.com/photos/a-bird-flying-in-the-sky-through-a-circular-mirror-4YxXWYW7JqQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]{style="font-size: 8px;"}
+::::
+
+:::::::::
 
 ## Researcher's orientation: resources
 
 ::: {.callout-note appearance="simple"}
-- Positionality
+**Positionality**
 
-  - @darwinholmes2020, @goundar2025 for qualitative research.
+- @darwinholmes2020, @goundar2025 for qualitative research.
 
-  - @jafar2018, @lazard2020 for quantitative research.
+- @jafar2018, @lazard2020 for quantitative research.
 
-- Philosophical stance
+<br>
 
-  - @okasha2016, @rosenberg2020
+**Philosophical stance**
 
-  - @tomlinson2023, @castanelli2024 for PhD/ECRs.
+- @okasha2016, @rosenberg2020
+
+- @tomlinson2023, @castanelli2024 for PhD/ECRs.
 :::
 
 ## Open Research
