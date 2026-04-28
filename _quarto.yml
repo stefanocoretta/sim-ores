@@ -26,6 +26,8 @@ website:
             text: "02 - Research Compendia"
           - href: "practice/03-versioning.qmd"
             text: "03 - Version control"
+      - text: Info
+        href: info.qmd
 
 
 format:

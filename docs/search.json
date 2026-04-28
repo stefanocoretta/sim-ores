@@ -210,6 +210,41 @@
     "text": "This is the website of the Spring Into Methods workshop Open Research practices for the social and human disciplines."
   },
   {
+    "objectID": "info.html",
+    "href": "info.html",
+    "title": "Information",
+    "section": "",
+    "text": "Dr Stefano Coretta will be your primary instructor and point of contact for the workshop.\nPonrawee Praesertsom will help with running the workshop and facilitating the hands on sessions."
+  },
+  {
+    "objectID": "info.html#instructors",
+    "href": "info.html#instructors",
+    "title": "Information",
+    "section": "",
+    "text": "Dr Stefano Coretta will be your primary instructor and point of contact for the workshop.\nPonrawee Praesertsom will help with running the workshop and facilitating the hands on sessions."
+  },
+  {
+    "objectID": "info.html#location",
+    "href": "info.html#location",
+    "title": "Information",
+    "section": "Location",
+    "text": "Location\nThe workshop will take place in the Dugald Stewart Building of the University of Edinburgh in Edinburgh (see map below).\nAll sessions will be delivered in Room 3.10 on the third floor. Registration and catering will be in the common room of the seventh floor.\nIf you are unsure of where to go, ask for directions at the building reception.\n\nThere are gender-neutral and accessible toilets on every floor of the building. The Meadows park next door is an excellent place to relax and recharge between sessions."
+  },
+  {
+    "objectID": "info.html#schedule",
+    "href": "info.html#schedule",
+    "title": "Information",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\nTime\n\n\n\n\n\n9.30-10.00\nBreakfast and registration\n\n\n10.00-11.00\nOverview\n\n\n11.00-11.15\nBREAK\n\n\n11.15-12.30\nResearch Compendia (with hands on practice)\n\n\n12.30-13.30\nLUNCH\n\n\n13.30-14.30\nVersion Control (with hands on practice)\n\n\n14.30-14.45\nBREAK\n\n\n14.45-15.30\nPreregistration and Registered Reports\n\n\n15.30-16.00\nBREAK\n\n\n16.00-17.00\n(optional) Clinic\n\n\n\nThe clinic (16.00-17.00) is optional: you will get the chance to ask Stefano about how to implement any of the practices covered during the workshop in your own research. This will be on a first ask first served basis."
+  },
+  {
+    "objectID": "info.html#pre-requisites",
+    "href": "info.html#pre-requisites",
+    "title": "Information",
+    "section": "Pre-requisites",
+    "text": "Pre-requisites\nBefore the workshop, you must read and practice the following tutorial:\n\nLearning the basics of using the Command Line: https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line\n\nYou will need the skills covered in that tutorial to complete the session on version control.\nI also recommend you skim this very short paper:\n\nCrüwell, Sophia, Johnny van Doorn, Alexander Etz, Matthew C. Makel, Hannah Moshontz, Jesse Niebaum, Amy Orben, Sam Parsons, and Michael Schulte-Mecklenbeck. 2019. “Seven Easy Steps to Open Science: An Annotated Reading List.” Zeitschrift Für Psychologie 227 (4): 237248.  https://doi.org/10.1027/2151-2604/a000387"
+  },
+  {
     "objectID": "slides/03-versioning.html#why-should-you-learn-version-control",
     "href": "slides/03-versioning.html#why-should-you-learn-version-control",
     "title": "03 - Version control",
@@ -474,40 +509,5 @@
     "title": "03 - Git (practice)",
     "section": "Summary",
     "text": "Summary\nYou have:\n\nCreated a repository\nAdded and committed files\nModified and recommitted changes\nCreated and switched branches\nWorked independently on a branch"
-  },
-  {
-    "objectID": "info.html",
-    "href": "info.html",
-    "title": "Information",
-    "section": "",
-    "text": "Dr Stefano Coretta will be your primary instructor and point of contact for the workshop.\nPonrawee Praesertsom will help with running the workshop and facilitating the hands on sessions."
-  },
-  {
-    "objectID": "info.html#location",
-    "href": "info.html#location",
-    "title": "Information",
-    "section": "Location",
-    "text": "Location\nThe workshop will take place in the Dugald Stewart Building of the University of Edinburgh in Edinburgh (see map below).\nAll sessions will be delivered in Room 3.10 on the third floor. Registration and catering will be in the common room of the seventh floor.\nIf you are unsure of where to go, ask for directions at the building reception.\n\nThere are gender-neutral and accessible toilets on every floor of the building. The Meadows park next door is an excellent place to relax and recharge between sessions."
-  },
-  {
-    "objectID": "info.html#schedule",
-    "href": "info.html#schedule",
-    "title": "Information",
-    "section": "Schedule",
-    "text": "Schedule\n\n\n\nTime\n\n\n\n\n\n9.30-10.00\nBreakfast and registration\n\n\n10.00-11.00\nOverview\n\n\n11.00-11.15\nBREAK\n\n\n11.15-12.30\nResearch Compendia (with hands on practice)\n\n\n12.30-13.30\nLUNCH\n\n\n13.30-14.30\nVersion Control (with hands on practice)\n\n\n14.30-14.45\nBREAK\n\n\n14.45-15.30\nPreregistration and Registered Reports\n\n\n15.30-16.00\nBREAK\n\n\n16.00-17.00\n(optional) Clinic\n\n\n\nThe clinic (16.00-17.00) is optional: you will get the chance to ask Stefano about how to implement any of the practices covered during the workshop in your own research. This will be on a first ask first served basis."
-  },
-  {
-    "objectID": "info.html#instructors",
-    "href": "info.html#instructors",
-    "title": "Information",
-    "section": "",
-    "text": "Dr Stefano Coretta will be your primary instructor and point of contact for the workshop.\nPonrawee Praesertsom will help with running the workshop and facilitating the hands on sessions."
-  },
-  {
-    "objectID": "info.html#pre-requisites",
-    "href": "info.html#pre-requisites",
-    "title": "Information",
-    "section": "Pre-requisites",
-    "text": "Pre-requisites\nBefore the workshop, you must read and practice the following tutorial:\n\nLearning the basics of using the Command Line: https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line\n\nYou will need the skills covered in that tutorial to complete the session on version control.\nI also recommend you skim this very short paper:\n\nCrüwell, Sophia, Johnny van Doorn, Alexander Etz, Matthew C. Makel, Hannah Moshontz, Jesse Niebaum, Amy Orben, Sam Parsons, and Michael Schulte-Mecklenbeck. 2019. “Seven Easy Steps to Open Science: An Annotated Reading List.” Zeitschrift Für Psychologie 227 (4): 237248.  https://doi.org/10.1027/2151-2604/a000387"
   }
 ]
