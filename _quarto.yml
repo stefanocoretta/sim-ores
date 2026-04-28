@@ -34,5 +34,6 @@ format:
       - pulse
     css: styles.css
     toc: true
+    link-external-newwindow: true
 
 callout-icon: false
