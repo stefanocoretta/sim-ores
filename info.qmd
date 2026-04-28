@@ -10,7 +10,7 @@ title: "Information"
 
 ## Location
 
-The workshop will take place in the Dugald Stewart Building of the University of Edinburgh in Edinburgh (see map below).
+The workshop will take place in the Dugald Stewart Building (DSB) of the University of Edinburgh in Edinburgh (see map below).
 
 All sessions will be delivered in [Room 3.10](https://www.accessable.co.uk/the-university-of-edinburgh/central-area/access-guides/3-10-peter-ladefoged-room) on the third floor.
 Registration and catering will be in the common room of the seventh floor.
@@ -26,18 +26,18 @@ The Meadows park next door is an excellent place to relax and recharge between s
 
 ## Schedule
 
-| Time        |                                             |
-|-------------|---------------------------------------------|
-| 9.30-10.00  | Breakfast and registration                  |
-| 10.00-11.00 | Overview                                    |
-| 11.00-11.15 | *BREAK*                                     |
-| 11.15-12.30 | Research Compendia (with hands on practice) |
-| 12.30-13.30 | *LUNCH*                                     |
-| 13.30-14.30 | Version Control (with hands on practice)    |
-| 14.30-14.45 | *BREAK*                                     |
-| 14.45-15.30 | Preregistration and Registered Reports      |
-| 15.30-16.00 | *BREAK*                                     |
-| 16.00-17.00 | (optional) Clinic                           |
+| Time        | Location (DSB) |                                             |
+|-------------|----------------|---------------------------------------------|
+| 9.30-10.00  | 7th floor      | Breakfast and registration                  |
+| 10.00-11.00 | 3.10           | Overview                                    |
+| 11.00-11.15 |                | *BREAK*                                     |
+| 11.15-12.30 | 3.10           | Research Compendia (with hands on practice) |
+| 12.30-13.30 | 7th floor      | *LUNCH*                                     |
+| 13.30-14.30 | 3.10           | Version Control (with hands on practice)    |
+| 14.30-14.45 |                | *BREAK*                                     |
+| 14.45-15.30 | 3.10           | Preregistration and Registered Reports      |
+| 15.30-16.00 | 7th floor      | *BREAK*                                     |
+| 16.00-17.00 | 3.10           | (optional) Clinic                           |
 
 The clinic (16.00-17.00) is optional: you will get the chance to ask Stefano about how to implement any of the practices covered during the workshop in your own research.
 This will be on a first ask first served basis.
