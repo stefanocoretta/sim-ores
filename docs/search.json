@@ -88,7 +88,7 @@
     "href": "slides/01-overview.html#built-in-control",
     "title": "01 - Overview",
     "section": "Built-in control",
-    "text": "Built-in control\n\n\n\n\n\n\n\n“But scientific power is like inherited wealth: attained without discipline. You read what others have done, and you take the next step. You can do it very young. You can make progress very fast. There is no discipline lasting many decades. There is no mastery: old scientists are ignored. There is no humility before nature.”"
+    "text": "Built-in control\n\n\n\n\n\n“But scientific power is like inherited wealth: attained without discipline. You read what others have done, and you take the next step. You can do it very young. You can make progress very fast. There is no discipline lasting many decades. There is no mastery: old scientists are ignored. There is no humility before nature.”"
   },
   {
     "objectID": "slides/01-overview.html#section-1",
@@ -123,14 +123,14 @@
     "href": "slides/01-overview.html#research-reliability",
     "title": "01 - Overview",
     "section": "Research reliability",
-    "text": "Research reliability\n\n\n\nFrom The Turing Way."
+    "text": "Research reliability\n\nFrom The Turing Way."
   },
   {
     "objectID": "slides/01-overview.html#research-reliability-1",
     "href": "slides/01-overview.html#research-reliability-1",
     "title": "01 - Overview",
     "section": "Research reliability",
-    "text": "Research reliability\n\n\n\nFrom The Turing Way."
+    "text": "Research reliability\n\nFrom The Turing Way."
   },
   {
     "objectID": "slides/01-overview.html#section-5",
@@ -151,49 +151,63 @@
     "href": "slides/01-overview.html#reproducibility-shareability",
     "title": "01 - Overview",
     "section": "Reproducibility: shareability",
-    "text": "Reproducibility: shareability\n\n\n\nFrom Miske et al. (2026)"
+    "text": "Reproducibility: shareability\n\nFrom Miske et al. (2026)"
   },
   {
     "objectID": "slides/01-overview.html#reproducibility-1",
     "href": "slides/01-overview.html#reproducibility-1",
     "title": "01 - Overview",
     "section": "Reproducibility",
-    "text": "Reproducibility\n\n\n\nFrom Miske et al. (2026)"
+    "text": "Reproducibility\n\nFrom Miske et al. (2026)"
   },
   {
     "objectID": "slides/01-overview.html#reproducibility-qualitative-research",
     "href": "slides/01-overview.html#reproducibility-qualitative-research",
     "title": "01 - Overview",
     "section": "Reproducibility: qualitative research",
-    "text": "Reproducibility: qualitative research\n\n\n\n\n\n\n\nDuBois (2024): 96% surveyed qualitative researchers have never shared data in a repository.\nLamb et al. (2024): claiming that data collector is the only legitimate knowledge gatekeeper is at odds with epistemic plurality.\nHeaton (2008): shows successful reuse of qualitative data. Data are not epistemically exhausted by first analysis."
+    "text": "Reproducibility: qualitative research\n\n\n\n\nDuBois (2024): 96% surveyed qualitative researchers have never shared data in a repository.\nLamb et al. (2024): claiming that data collector is the only legitimate knowledge gatekeeper is at odds with epistemic plurality.\nHeaton (2008): shows successful reuse of qualitative data. Data are not epistemically exhausted by first analysis."
   },
   {
     "objectID": "slides/01-overview.html#replicability",
     "href": "slides/01-overview.html#replicability",
     "title": "01 - Overview",
     "section": "Replicability",
-    "text": "Replicability\n\n\n\nFrom Open Science Collaboration (2015)"
+    "text": "Replicability\n\nFrom Open Science Collaboration (2015)"
   },
   {
     "objectID": "slides/01-overview.html#robustness",
     "href": "slides/01-overview.html#robustness",
     "title": "01 - Overview",
     "section": "Robustness",
-    "text": "Robustness\n\n\n\n\n\n\n\nBrodeur et al. (2026): economy and political science; effect sizes that are similar (between 50% to 200% of the original effect size) under reanalysis represent 69% of the sample.\nAuspurg (2025): not invariance across all methods, but insensitivity within a justified class of models."
+    "text": "Robustness\n\n\n\n\nBrodeur et al. (2026): economy and political science; effect sizes that are similar (between 50% to 200% of the original effect size) under reanalysis represent 69% of the sample.\nAuspurg (2025): not invariance across all methods, but insensitivity within a justified class of models."
   },
   {
     "objectID": "slides/01-overview.html#generalisability",
     "href": "slides/01-overview.html#generalisability",
     "title": "01 - Overview",
     "section": "Generalisability",
-    "text": "Generalisability\n\n\n\n\n\n\n\n\nUninterpretability of conceptual models Meehl (1990)\n“We are not even wrong” Scheel (2022)\nLack of meaningful connection between verbal generalisations and evidence. Yarkoni (2022)\nReplicable results do not imply correct conditional inference and non-replicable results do not imply incorrect conditional inference. Devezer et al. (2019)"
+    "text": "Generalisability\n\n\n\n\nUninterpretability of conceptual models Meehl (1990)\n“We are not even wrong” Scheel (2022)\nLack of meaningful connection between verbal generalisations and evidence. Yarkoni (2022)\nReplicable results do not imply correct conditional inference and non-replicable results do not imply incorrect conditional inference. Devezer et al. (2019)"
+  },
+  {
+    "objectID": "slides/01-overview.html#researchers-orientation",
+    "href": "slides/01-overview.html#researchers-orientation",
+    "title": "01 - Overview",
+    "section": "Researcher’s orientation",
+    "text": "Researcher’s orientation\n\nReflexive understanding of one’s own individual aspects and how they shape one’s own approach to and practice of research.\nNot limited to: identity, lived experiences, social positionality, philosophical stance, personal beliefs, methodological theory, and more."
+  },
+  {
+    "objectID": "slides/01-overview.html#researchers-orientation-resources",
+    "href": "slides/01-overview.html#researchers-orientation-resources",
+    "title": "01 - Overview",
+    "section": "Researcher’s orientation: resources",
+    "text": "Researcher’s orientation: resources\n\n\n\n\nPositionality\n\nDarwin Holmes (2020), Goundar (2025) for qualitative research.\nJafar (2018), Lazard and McAvoy (2020) for quantitative research.\n\nPhilosophical stance\n\nOkasha (2016), Rosenberg and Mclntyre (2020)\nTomlinson (2023), Castanelli (2024) for PhD/ECRs."
   },
   {
     "objectID": "slides/01-overview.html#open-research",
     "href": "slides/01-overview.html#open-research",
     "title": "01 - Overview",
     "section": "Open Research",
-    "text": "Open Research\n\n\n\n\n\n\nNoteWhat is it?\n\n\n\nOpen Research is a movement that stresses the importance of a more honest and transparent research by promoting a series of research principles and by warning about common, although not necessarily intentional, questionable practices and misconceptions (Munafò et al. 2017; Crüwell et al. 2019).\n\n\n. . .\n\n\n\n\n\n\nImportantHow to make your research open?\n\n\n\n\nCurate and share Research compendia.\nUse version control.\nWrite Registered Reports.\nReflect on your researcher’s orientation (Liljedahl et al. 2025).\nGuidelines for PhD students/supervisors: Kathawalla et al. (2021)."
+    "text": "Open Research\n\n\n\nWhat is it?\n\n\nOpen Research is a movement that stresses the importance of a more honest and transparent research by promoting a series of research principles and by warning about common, although not necessarily intentional, questionable practices and misconceptions (Munafò et al. 2017; Crüwell et al. 2019).\n\n\n\n\n\n\n\nHow to make your research open?\n\n\n\nCurate and share Research compendia.\nUse version control.\nWrite Registered Reports.\nReflect on your researcher’s orientation (Liljedahl et al. 2025).\nGuidelines for PhD students/supervisors: Kathawalla et al. (2021)."
   },
   {
     "objectID": "slides/01-overview.html#references",
@@ -509,19 +523,5 @@
     "title": "03 - Git (practice)",
     "section": "Summary",
     "text": "Summary\nYou have:\n\nCreated a repository\nAdded and committed files\nModified and recommitted changes\nCreated and switched branches\nWorked independently on a branch"
-  },
-  {
-    "objectID": "slides/01-overview.html#researchers-orientation",
-    "href": "slides/01-overview.html#researchers-orientation",
-    "title": "01 - Overview",
-    "section": "Researcher’s orientation",
-    "text": "Researcher’s orientation\n\nReflexive understanding of one’s own individual aspects and how they shape one’s own approach to and practice of research.\nNot limited to: identity, lived experiences, social positionality, philosophical stance, personal beliefs, methodological theory, and more."
-  },
-  {
-    "objectID": "slides/01-overview.html#researchers-orientation-resources",
-    "href": "slides/01-overview.html#researchers-orientation-resources",
-    "title": "01 - Overview",
-    "section": "Researcher’s orientation: resources",
-    "text": "Researcher’s orientation: resources\n\n\n\n\n\n\n\nPositionality\n\nDarwin Holmes (2020), Goundar (2025) for qualitative research.\nJafar (2018), Lazard and McAvoy (2020) for quantitative research.\n\nPhilosophical stance\n\nOkasha (2016), Rosenberg and Mclntyre (2020)\nTomlinson (2023), Castanelli (2024) for PhD/ECRs."
   }
 ]
