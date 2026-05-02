@@ -10,12 +10,12 @@ bibliography: references.bib
 <iframe allowfullscreen frameborder="0" height="80%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/FUZIGY/questions/69e5f1815dfd55c323cde953" width="100%"></iframe>
 ```
 
-## Built-in control
+## Built-in control {background-color="var(--dark-purple)"}
 
 <br><br><br>
 
-::: {.callout-tip appearance="minimal" style="text-align: right; font-size: 56px;"}
-"But scientific power is like inherited wealth: attained without discipline. You read what others have done, and you take the next step. You can do it very young. You can make progress very fast. There is no discipline lasting many decades. There is no mastery: old scientists are ignored. There is no humility before nature."
+::: {style="text-align: right;"}
+**"But scientific power is like inherited wealth: attained without discipline. You read what others have done, and you take the next step. [...] There is no discipline lasting many decades. [...] There is no humility before nature."**
 :::
 
 ## 
@@ -26,7 +26,11 @@ bibliography: references.bib
 ![](../img/jurassic-park.jpg){fig-align="center" width="400"}
 :::
 
-##  {background-image="../img/ux-indonesia-qC2n6RQU4Vw-unsplash.jpg"}
+##  {background-image="../img/ux-indonesia-qC2n6RQU4Vw-unsplash.jpg" .center}
+
+::: r-fit-text
+[**RESEARCH**]{style="color: var(--medium-purple)" .shadow-text}
+:::
 
 ::: aside
 [Photo by <a href="https://unsplash.com/@uxindo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">UX Indonesia</a> on <a href="https://unsplash.com/photos/person-writing-on-white-paper-qC2n6RQU4Vw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]{style="font-size: 8px;"}
@@ -50,10 +54,10 @@ bibliography: references.bib
 "A crisis of **confidence**?" [@pashler2012]{.small-ref}
 :::
 
-<br><br><br>
+<br><br><br><br>
 
-::: {.fragment .r-fit-text style="text-align: center;"}
-**Research crises**
+::: {.fragment .r-fit-text style="text-align: center; color: var(--medium-purple)"}
+**REASERCH CRISES**
 :::
 
 ::: {.fragment .r-fit-text}
@@ -68,11 +72,11 @@ Part of the **polycrisis** [@morin1999, @tooze2023]{.small-ref}
 
 ## Research reliability
 
-![From [The Turing Way](https://book.the-turing-way.org/reproducible-research/overview/overview-definitions/).](/img/reproducible-matrix-d15700202901e2e2e85fd2dcc71a158b.jpg){fig-align="center"}
+![From [The Turing Way](https://book.the-turing-way.org/reproducible-research/overview/overview-definitions/).](/img/repli-matrix.png){fig-align="center"}
 
 ## Research reliability
 
-![From [The Turing Way](https://book.the-turing-way.org/reproducible-research/overview/overview-definitions/).](/img/reproducible-matrix-d15700202901e2e2e85fd2dcc71a158b-2.jpg){fig-align="center"}
+![From [The Turing Way](https://book.the-turing-way.org/reproducible-research/overview/overview-definitions/).](/img/repli-matrix-2.png){fig-align="center"}
 
 ##  {.center background-image="../img/dusan-veverkolog-mX2mdxhc0UM-unsplash.jpg"}
 
@@ -210,9 +214,9 @@ Open Research is a movement that stresses the importance of a **more honest and 
 
 - Write **Registered Reports**.
 
-- Reflect on your **researcher's orientation** [@liljedahl2025].
+- Reflect on your **researcher's orientation** [@liljedahl2025]{.small-ref}
 
-- Guidelines for PhD students/supervisors: @kathawalla2021.
+- Guidelines for PhD students/supervisors: [@kathawalla2021]{.small-ref}
 
 :::
 :::

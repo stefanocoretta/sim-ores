@@ -60,6 +60,8 @@ $presentation-title-slide-text-align: left;
 
 :root {
   --inverse: #{$base-color};
+  --medium-purple: #493082;
+  --dark-purple: #2a1b4a;
   --r-block-margin: 10px;
   --r-heading-margin: 0 0 40px 0;
   --r-block-margin: 0;
@@ -72,6 +74,14 @@ $presentation-title-slide-text-align: left;
 .reveal img, .reveal video, .reveal iframe {
   max-width: 100%;
   max-height: 100%;
+}
+
+.caption {
+  margin-top: 25px !important;
+}
+
+.shadow-text {
+  text-shadow: 0px 0px 10px rgba(0,0,0,0.8);
 }
 
 .small-ref {
