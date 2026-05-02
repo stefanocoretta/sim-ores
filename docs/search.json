@@ -116,7 +116,7 @@
     "href": "slides/01-overview.html#section-4",
     "title": "01 - Overview",
     "section": "",
-    "text": "“A crisis of confidence?” Pashler and Wagenmakers (2012)\n\n\n\nResearch crises\n\n\n\nPart of the polycrisis Morin and Kern (1999), Tooze (2023)\n\n\n\n\nPhoto by Nik on Unsplash"
+    "text": "“A crisis of confidence?” Pashler and Wagenmakers (2012)\n\n\n\nResearch crises\n\n\nPart of the polycrisis Morin and Kern (1999), Tooze (2023)\n\n\n\n\nPhoto by Nik on Unsplash"
   },
   {
     "objectID": "slides/01-overview.html#research-reliability",
@@ -193,7 +193,7 @@
     "href": "slides/01-overview.html#researchers-orientation",
     "title": "01 - Overview",
     "section": "Researcher’s orientation",
-    "text": "Researcher’s orientation\n\n\n\n\n\nReflexive understanding of one’s own individual aspects and how they shape one’s own approach to and practice of research.\n\nNot limited to: identity, lived experiences, social positionality, philosophical stance, personal beliefs, methodological theory, and more.\n\n\n\n\n\n\n\n\n\n\n\n\nPhoto by Jovis Aloor on Unsplash"
+    "text": "Researcher’s orientation\n\n\n\n\n\nReflexive understanding of one’s own individual aspects and how they shape one’s own approach to and practice of research.\n\nNot limited to: identity, lived experiences, social positionality, philosophical stance, personal beliefs, methodological theory, and more.\n\n\n\n\n\n\n\n\n\nPhoto by Jovis Aloor on Unsplash"
   },
   {
     "objectID": "slides/01-overview.html#researchers-orientation-resources",
@@ -207,7 +207,7 @@
     "href": "slides/01-overview.html#open-research",
     "title": "01 - Overview",
     "section": "Open Research",
-    "text": "Open Research\n\n\n\nWhat is it?\n\n\nOpen Research is a movement that stresses the importance of a more honest and transparent research by promoting a series of research principles and by warning about common, although not necessarily intentional, questionable practices and misconceptions (Munafò et al. 2017; Crüwell et al. 2019).\n\n\n\n\n\n\n\nHow to make your research open?\n\n\n\nCurate and share Research compendia.\nUse version control.\nWrite Registered Reports.\nReflect on your researcher’s orientation (Liljedahl et al. 2025).\nGuidelines for PhD students/supervisors: Kathawalla et al. (2021)."
+    "text": "Open Research\n\n\n\n\n\nWhat is it?\n\n\n\n\n\n\nOpen Research is a movement that stresses the importance of a more honest and transparent research by promoting a series of research principles and by warning about common, although not necessarily intentional, questionable practices and misconceptions Munafò et al. (2017), Crüwell et al. (2019)\n\n\n\nPhoto by Deniz Demir on Unsplash"
   },
   {
     "objectID": "slides/01-overview.html#references",
@@ -523,5 +523,26 @@
     "title": "03 - Git (practice)",
     "section": "Summary",
     "text": "Summary\nYou have:\n\nCreated a repository\nAdded and committed files\nModified and recommitted changes\nCreated and switched branches\nWorked independently on a branch"
+  },
+  {
+    "objectID": "slides/01-overview.html#what-is-it",
+    "href": "slides/01-overview.html#what-is-it",
+    "title": "01 - Overview",
+    "section": "What is it?",
+    "text": "What is it?\nOpen Research is a movement that stresses the importance of a more honest and transparent research by promoting a series of research principles and by warning about common, although not necessarily intentional, questionable practices and misconceptions Munafò et al. (2017), Crüwell et al. (2019)"
+  },
+  {
+    "objectID": "slides/01-overview.html#how-to-make-your-research-open",
+    "href": "slides/01-overview.html#how-to-make-your-research-open",
+    "title": "01 - Overview",
+    "section": "How to make your research open?",
+    "text": "How to make your research open?\n\nCurate and share Research compendia.\nUse version control.\nWrite Registered Reports.\nReflect on your researcher’s orientation (Liljedahl et al. 2025).\nGuidelines for PhD students/supervisors: Kathawalla et al. (2021)."
+  },
+  {
+    "objectID": "slides/01-overview.html#open-research-1",
+    "href": "slides/01-overview.html#open-research-1",
+    "title": "01 - Overview",
+    "section": "Open Research",
+    "text": "Open Research\n\n\n\n\n\nHow to make your research open?\n\n\n\n\n\n\n\nCurate and share Research compendia.\nUse version control.\nWrite Registered Reports.\nReflect on your researcher’s orientation (Liljedahl et al. 2025).\nGuidelines for PhD students/supervisors: Kathawalla et al. (2021).\n\n\n\n\nPhoto by Deniz Demir on Unsplash"
   }
 ]

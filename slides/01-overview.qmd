@@ -21,9 +21,9 @@ bibliography: references.bib
 ## 
 
 ::: {layout-ncol="2" style="text-align:center;"}
-![Ian Malcom, chaotician](https://upload.wikimedia.org/wikipedia/en/6/60/Ian_Malcolm_%28Jeff_Goldblum%29.jpg){fig-align="center" width="300"}
+![Ian Malcom, chaotician](https://upload.wikimedia.org/wikipedia/en/6/60/Ian_Malcolm_%28Jeff_Goldblum%29.jpg){fig-align="center" width="400"}
 
-![](../img/jurassic-park.jpg){fig-align="center" width="300"}
+![](../img/jurassic-park.jpg){fig-align="center" width="400"}
 :::
 
 ##  {background-image="../img/ux-indonesia-qC2n6RQU4Vw-unsplash.jpg"}
@@ -42,24 +42,22 @@ bibliography: references.bib
 
 :::::::: columns
 ::: {.column width="40%"}
-![](../img/nik-0urrnqA66Lo-unsplash-2.jpg){width="350" fig-align="center"}
+![](../img/nik-0urrnqA66Lo-unsplash-2.jpg){width="100%" fig-align="center"}
 :::
 
 :::::: {.column width="60%"}
 ::: r-fit-text
-"A crisis of **confidence**?" @pashler2012
+"A crisis of **confidence**?" [@pashler2012]{.small-ref}
 :::
 
-<br><br>
+<br><br><br>
 
 ::: {.fragment .r-fit-text style="text-align: center;"}
 **Research crises**
 :::
 
-<br>
-
 ::: {.fragment .r-fit-text}
-Part of the **polycrisis** @morin1999[, @tooze2023]{.small-ref}
+Part of the **polycrisis** [@morin1999, @tooze2023]{.small-ref}
 :::
 ::::::
 ::::::::
@@ -126,7 +124,6 @@ Part of the **polycrisis** @morin1999[, @tooze2023]{.small-ref}
 ## Generalisability
 
 :::: {.callout-note appearance="simple"}
-::: incremental
 - **Uninterpretability** of conceptual models @meehl1990
 
 - "We are not even wrong" @scheel2022
@@ -136,13 +133,12 @@ Part of the **polycrisis** @morin1999[, @tooze2023]{.small-ref}
 
 - Replicable results do not imply correct conditional inference and non-replicable results do not imply incorrect conditional inference.
   @devezer2019
-:::
 ::::
 
 ## Researcher's orientation
 
 :::::: columns
-:::: {.column width="60%"}
+:::: {.column width="50%"}
 ::: {.callout-note appearance="simple"}
 **Reflexive** understanding of one's own individual aspects and how they shape one's own approach to and practice of research.
 
@@ -152,10 +148,12 @@ Not limited to: identity, lived experiences, social positionality, philosophical
 :::
 ::::
 
-::: {.column width="40%"}
-![](../img/jovis-aloor-4YxXWYW7JqQ-unsplash.jpg){fig-align="center" height="400px"}
+::: {.column width="50%"}
+
 :::
 ::::::
+
+![](../img/jovis-aloor-4YxXWYW7JqQ-unsplash.jpg){.absolute top=0 right=0 height="100%"}
 
 ::: aside
 [Photo by <a href="https://unsplash.com/@jovisjoseph?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jovis Aloor</a> on <a href="https://unsplash.com/photos/a-bird-flying-in-the-sky-through-a-circular-mirror-4YxXWYW7JqQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]{style="font-size: 8px;"}
@@ -179,18 +177,32 @@ Not limited to: identity, lived experiences, social positionality, philosophical
 - @tomlinson2023, @castanelli2024 for PhD/ECRs.
 :::
 
-## Open Research
+## Open Research {background-image="../img/deniz-demir-VRujFIBHhU4-unsplash.jpg" background-size=contain background-color="black"}
+
+::: columns
+::: {.column width="70%"}
 
 ::: callout-note
 ## What is it?
-
-Open Research is a movement that stresses the importance of a **more honest and transparent research** by promoting a series of research principles and by warning about common, although not necessarily intentional, questionable practices and misconceptions [@munafo2017; @cruwell2019].
 :::
 
-. . .
+Open Research is a movement that stresses the importance of a **more honest and transparent research** by promoting a series of research principles and by warning about common, although not necessarily intentional, questionable practices and misconceptions [@munafo2017, @cruwell2019]{.small-ref}
 
-::: callout-important
+:::
+:::
+
+::: aside
+[Photo by <a href="https://unsplash.com/@denizdowntown?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Deniz Demir</a> on <a href="https://unsplash.com/photos/a-neon-open-sign-glows-in-the-darkness-VRujFIBHhU4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]{style="font-size: 8px;"}
+:::
+
+## Open Research {background-image="../img/deniz-demir-VRujFIBHhU4-unsplash.jpg" background-size=contain background-color="black"}
+
+::: columns
+::: {.column width="70%"}
+
+::: callout-note
 ## How to make your research open?
+:::
 
 - Curate and share **Research compendia**.
 
@@ -201,6 +213,16 @@ Open Research is a movement that stresses the importance of a **more honest and 
 - Reflect on your **researcher's orientation** [@liljedahl2025].
 
 - Guidelines for PhD students/supervisors: @kathawalla2021.
+
 :::
+:::
+
+
+::: aside
+[Photo by <a href="https://unsplash.com/@denizdowntown?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Deniz Demir</a> on <a href="https://unsplash.com/photos/a-neon-open-sign-glows-in-the-darkness-VRujFIBHhU4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]{style="font-size: 8px;"}
+:::
+
+
+
 
 ## References
