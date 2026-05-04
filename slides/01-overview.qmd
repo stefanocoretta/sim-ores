@@ -78,9 +78,9 @@ Part of the **polycrisis** [@morin1999, @tooze2023]{.small-ref}
 
 ![From [The Turing Way](https://book.the-turing-way.org/reproducible-research/overview/overview-definitions/).](/img/repli-matrix-2.png){fig-align="center"}
 
-##  {.center background-image="../img/dusan-veverkolog-mX2mdxhc0UM-unsplash.jpg"}
+##  {background-image="../img/dusan-veverkolog-mX2mdxhc0UM-unsplash.jpg"}
 
-::: {.r-fit-text style="color: white;"}
+::: {.r-fit-text style="color: white;" .center}
 **SOUND**
 :::
 
@@ -104,13 +104,53 @@ Part of the **polycrisis** [@morin1999, @tooze2023]{.small-ref}
 
 ## Reproducibility: qualitative research
 
-::: {.callout-note appearance="simple"}
-- @dubois2024: 96% surveyed qualitative researchers have never shared data in a repository.
+::: {.columns}
 
-- @lamb2024: claiming that data collector is the only legitimate knowledge gatekeeper is at odds with epistemic plurality.
+::: {.column width="50%"}
+![](/img/file-sharing.png){width="150" fig-align="center"}
+:::
 
-- @heaton2008: shows successful reuse of qualitative data.
-  Data are not epistemically exhausted by first analysis.
+::: {.column width="50%"}
+[96%]{style="font-size: 50px;"}
+
+of researchers have **never** shared data
+
+[@dubois2024]{.small-ref}
+:::
+
+:::
+
+::: {.columns .fragment}
+
+::: {.column width="50%"}
+![](/img/gate.png){width="150" fig-align="center"}
+:::
+
+::: {.column width="50%"}
+Claiming data collector is the only legitimate knowledge gatekeeper is at odds with epistemic plurality
+
+[@lamb2024]{.small-ref}
+:::
+
+:::
+
+::: {.columns .fragment}
+
+::: {.column width="50%"}
+![](/img/recycle-sign.png){width="150" fig-align="center"}
+:::
+
+::: {.column width="50%"}
+Data are not epistemically exhausted by first analysis
+
+[@heaton2008]{.small-ref}
+:::
+
+:::
+
+
+::: aside
+[<a href="https://www.flaticon.com/free-icons/file-sharing" title="file-sharing icons">File-sharing icons created by Freepik - Flaticon</a>. <a href="https://www.flaticon.com/free-icons/gate" title="gate icons">Gate icons created by Freepik - Flaticon</a>. <a href="https://www.flaticon.com/free-icons/reuse" title="reuse icons">Reuse icons created by Hilmy Abiyyu A. - Flaticon</a>]{.small-ref}
 :::
 
 ## Replicability
@@ -119,11 +159,38 @@ Part of the **polycrisis** [@morin1999, @tooze2023]{.small-ref}
 
 ## Robustness
 
-::: {.callout-note appearance="simple"}
-- @brodeur2026: economy and political science; effect sizes that are between 50% to 200% of the original effect size under reanalysis represent 69% of the sample.
+::: columns
 
-- @auspurg2025: not invariance across all methods, but insensitivity within a justified class of models.
+::: {.column width="50%"}
+
+![](/img/scale.png){fig-align="center" height="150px"}
+
+<br>
+
+[50-200% of original effect]{.r-fit-text}
+
+in 69% of studies.
+
+[Economy and political science. @brodeur2026]{.small-ref}
 :::
+
+::: {.column width="50%" .fragment}
+
+![](/img/maze.png){fig-align="center" height="150px"}
+
+<br>
+
+Not invariance across all methods, but insensitivity within a justified class of models.
+
+[@auspurg2025]{.small-ref}
+:::
+
+:::
+
+::: aside
+[<a href="https://www.flaticon.com/free-icons/scale-up" title="scale up icons">Scale up icons created by Freepik - Flaticon</a>. <a href="https://www.flaticon.com/free-icons/maze" title="maze icons">Maze icons created by Freepik - Flaticon</a>]{style="font-size: 8px;"}
+:::
+
 
 ## Generalisability
 
@@ -139,46 +206,54 @@ Part of the **polycrisis** [@morin1999, @tooze2023]{.small-ref}
   @devezer2019
 ::::
 
-## Researcher's orientation
+## [Researcher's orientation]{style="background-color: white; padding-left: 0.5em; padding-right: 0.5em;"} {background-image="../img/jovis-aloor-4YxXWYW7JqQ-unsplash.jpg" background-opacity=0.7}
 
 :::::: columns
 :::: {.column width="50%"}
-::: {.callout-note appearance="simple"}
+::: {.callout-tip appearance="simple"}
+<br>
+
 **Reflexive** understanding of one's own individual aspects and how they shape one's own approach to and practice of research.
 
 <br>
-
-Not limited to: identity, lived experiences, social positionality, philosophical stance, personal beliefs, methodological theory, and more.
 :::
 ::::
 
 ::: {.column width="50%"}
+::: {.callout-tip appearance="simple" .fragment}
+<br>
 
+Not limited to: identity, lived experiences, social positionality, philosophical stance, personal beliefs, methodological theory, and more.
+
+<br>
+:::
 :::
 ::::::
 
-![](../img/jovis-aloor-4YxXWYW7JqQ-unsplash.jpg){.absolute top=0 right=0 height="100%"}
-
-::: aside
-[Photo by <a href="https://unsplash.com/@jovisjoseph?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jovis Aloor</a> on <a href="https://unsplash.com/photos/a-bird-flying-in-the-sky-through-a-circular-mirror-4YxXWYW7JqQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]{style="font-size: 8px;"}
-:::
-
-## Researcher's orientation: resources
-
-::: {.callout-note appearance="simple"}
-**Positionality**
+:::::: columns
+:::: {.column width="50%"}
+::: {.callout-tip .fragment}
+## Positionality
 
 - @darwinholmes2020, @goundar2025 for qualitative research.
 
 - @jafar2018, @lazard2020 for quantitative research.
+:::
+::::
 
-<br>
-
-**Philosophical stance**
+::: {.column width="50%"}
+::: {.callout-tip .fragment}
+## Philosophical stance
 
 - @okasha2016, @rosenberg2020
 
 - @tomlinson2023, @castanelli2024 for PhD/ECRs.
+:::
+:::
+::::::
+
+::: aside
+[Photo by <a href="https://unsplash.com/@jovisjoseph?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jovis Aloor</a> on <a href="https://unsplash.com/photos/a-bird-flying-in-the-sky-through-a-circular-mirror-4YxXWYW7JqQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]{style="font-size: 8px;"}
 :::
 
 ## Open Research {background-image="../img/deniz-demir-VRujFIBHhU4-unsplash.jpg" background-size=contain background-color="black"}
