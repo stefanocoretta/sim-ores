@@ -125,6 +125,8 @@ A Data Management Plan (DMP) covers data types and volume, capture, storage, int
 
 ## Sharing research compendia
 
-[![](/img/osf-project.png){fig-align="center"}](https://osf.io/w92me/overview)
+[![](/img/osf-project.png){fig-align="center" height="80%"}](https://osf.io/w92me/overview)
 
 ## Practice {background-color=var(--inverse) .center}
+
+[bit.ly/49uRbaW]{.r-fit-text}

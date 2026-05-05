@@ -10,6 +10,18 @@ bibliography: references.bib
 <iframe allowfullscreen frameborder="0" height="80%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/FUZIGY/questions/69e5f1815dfd55c323cde953" width="100%"></iframe>
 ```
 
+## 
+
+```{=html}
+<iframe allowfullscreen frameborder="0" height="80%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/FUZIGY/questions/69e5f1ad95d54e08ebc82f30" width="100%"></iframe>
+```
+
+## 
+
+```{=html}
+<iframe allowfullscreen frameborder="0" height="80%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/FUZIGY/questions/69e5f21c50e6173a12fafc70" width="100%"></iframe>
+```
+
 ## Built-in control {background-color="var(--dark-purple)"}
 
 <br><br><br>
@@ -80,7 +92,9 @@ Part of the **polycrisis** [@morin1999, @tooze2023]{.small-ref}
 
 ##  {background-image="../img/dusan-veverkolog-mX2mdxhc0UM-unsplash.jpg"}
 
-::: {.r-fit-text style="color: white;" .center}
+<br><br>
+
+::: {.r-fit-text style="color: white;"}
 **SOUND**
 :::
 

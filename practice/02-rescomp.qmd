@@ -24,5 +24,8 @@ After familiarising yourself with the files (if you have questions, ask us!), yo
 7.  Write a log file where you explain the changes and how you have reorganised the files.
     You can call this file CHANGELOG or NEWS or anything else that makes sense in your field.
 
-8.  When you are happy, create an OSF project and upload your research compendium
+8.  When you are happy, create an OSF project and upload your research compendium.
+
+
+9. Post the link to your compendium in the shared spreadsheet.
 :::

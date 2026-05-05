@@ -4,7 +4,7 @@
     "href": "practice/02-rescomp.html",
     "title": "02 - Research compendia (practice)",
     "section": "",
-    "text": "For this exercise you are asked to look through a set of files that belong to a fictitious study. We recommend you to form pairs/groups of three and work through this together or even just share thoughts while you work on the exercise independently.\nYou have two options, either a qualitative study or a quantitative study (but feel free to play with both!). After familiarising yourself with the files (if you have questions, ask us!), you should rename and organise the files in a research compendium and upload it to the Open Science Framework.\n\n\n\n\n\n\n\nFirst, create an Open Science Framework (OSF) account if you don’t have one already: https://osf.io/register.\nDownload zip archives with the studies here: qual, quant.\nFamiliarise yourself with the files and ask us if you have questions.\nRename and organise the files in folder to create a research compendium.\nAdd a README file explaining the structure of the compendium.\nAdd a LICENSE file.\nWrite a log file where you explain the changes and how you have reorganised the files. You can call this file CHANGELOG or NEWS or anything else that makes sense in your field.\nWhen you are happy, create an OSF project and upload your research compendium"
+    "text": "For this exercise you are asked to look through a set of files that belong to a fictitious study. We recommend you to form pairs/groups of three and work through this together or even just share thoughts while you work on the exercise independently.\nYou have two options, either a qualitative study or a quantitative study (but feel free to play with both!). After familiarising yourself with the files (if you have questions, ask us!), you should rename and organise the files in a research compendium and upload it to the Open Science Framework.\n\n\n\n\n\n\n\nFirst, create an Open Science Framework (OSF) account if you don’t have one already: https://osf.io/register.\nDownload zip archives with the studies here: qual, quant.\nFamiliarise yourself with the files and ask us if you have questions.\nRename and organise the files in folder to create a research compendium.\nAdd a README file explaining the structure of the compendium.\nAdd a LICENSE file.\nWrite a log file where you explain the changes and how you have reorganised the files. You can call this file CHANGELOG or NEWS or anything else that makes sense in your field.\nWhen you are happy, create an OSF project and upload your research compendium.\nPost the link to your compendium in the shared spreadsheet."
   },
   {
     "objectID": "slides/02-rescomp.html#research-compendium",
@@ -81,7 +81,7 @@
     "href": "slides/02-rescomp.html#practice",
     "title": "02 - Research Compendia",
     "section": "Practice",
-    "text": "Practice"
+    "text": "Practice\nbit.ly/49uRbaW"
   },
   {
     "objectID": "slides/01-overview.html#built-in-control",
@@ -91,29 +91,29 @@
     "text": "Built-in control\n\n\n“But scientific power is like inherited wealth: attained without discipline. You read what others have done, and you take the next step. […] There is no discipline lasting many decades. […] There is no humility before nature.”"
   },
   {
-    "objectID": "slides/01-overview.html#section-1",
-    "href": "slides/01-overview.html#section-1",
+    "objectID": "slides/01-overview.html#section-3",
+    "href": "slides/01-overview.html#section-3",
     "title": "01 - Overview",
     "section": "",
     "text": "Ian Malcom, chaotician"
   },
   {
-    "objectID": "slides/01-overview.html#section-2",
-    "href": "slides/01-overview.html#section-2",
+    "objectID": "slides/01-overview.html#section-4",
+    "href": "slides/01-overview.html#section-4",
     "title": "01 - Overview",
     "section": "",
     "text": "RESEARCH\n\n\n\nPhoto by UX Indonesia on Unsplash"
   },
   {
-    "objectID": "slides/01-overview.html#section-3",
-    "href": "slides/01-overview.html#section-3",
+    "objectID": "slides/01-overview.html#section-5",
+    "href": "slides/01-overview.html#section-5",
     "title": "01 - Overview",
     "section": "",
     "text": "Photo by Alex Shute on Unsplash"
   },
   {
-    "objectID": "slides/01-overview.html#section-4",
-    "href": "slides/01-overview.html#section-4",
+    "objectID": "slides/01-overview.html#section-6",
+    "href": "slides/01-overview.html#section-6",
     "title": "01 - Overview",
     "section": "",
     "text": "“A crisis of confidence?” Pashler and Wagenmakers (2012)\n\n\n\nREASERCH CRISES\n\n\nPart of the polycrisis Morin and Kern (1999), Tooze (2023)\n\n\n\n\nPhoto by Nik on Unsplash"
@@ -133,8 +133,8 @@
     "text": "Research reliability\n\nFrom The Turing Way."
   },
   {
-    "objectID": "slides/01-overview.html#section-5",
-    "href": "slides/01-overview.html#section-5",
+    "objectID": "slides/01-overview.html#section-7",
+    "href": "slides/01-overview.html#section-7",
     "title": "01 - Overview",
     "section": "",
     "text": "SOUND\n\n\n\nPhoto by Dušan veverkolog on Unsplash"
