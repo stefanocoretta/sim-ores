@@ -53,6 +53,9 @@ $font-family-sans-serif: 'Lato', sans-serif !default;
 $font-family-monospace: 'Source Code Pro', monospace !default;
 $presentation-font-size-root: 30px !default;
 
+// Headings
+$presentation-h2-font-size: 1.5em !default;
+
 // Title slide
 $presentation-title-slide-text-align: left;
 
@@ -63,7 +66,7 @@ $presentation-title-slide-text-align: left;
   --medium-purple: #493082;
   --dark-purple: #2a1b4a;
   --r-block-margin: 10px;
-  --r-heading-margin: 0 0 40px 0;
+  --r-heading-margin: 0 0 30px 0;
   --r-block-margin: 0;
 }
 

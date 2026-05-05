@@ -17,7 +17,7 @@ bibliography: references.bib
 ## 
 
 ```{=html}
-<iframe allowfullscreen frameborder="0" height="80%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/FUZIGY/questions/69e9f0322666a56a4dcd18c9" width="80%"></iframe>
+<iframe allowfullscreen frameborder="0" height="80%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/FUZIGY/questions/69e9f0322666a56a4dcd18c9" width="100%"></iframe>
 ```
 
 ## Questionable research practices (QRPs)
